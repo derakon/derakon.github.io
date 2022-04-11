@@ -40,6 +40,14 @@ li {
 	padding-bottom: 0.2em;
 	margin-right: 1em;
 }
+.screenshot {
+  border: 3px solid #222;
+	flex-grow: 1;
+	margin: 1em;
+	object-fit: contain;
+	object-position: center center;
+	width: 350px;
+}
 </style>
 	</head>
 	<body style="background-image: linear-gradient(#4768f4, #102456)">
@@ -52,17 +60,17 @@ li {
   				<a class="header-link" href="press.html">PRESS</a>
 			  </nav>
 			</header>
-			<div style="height: 722px"></div>
-			<div style="position: absolute; top: 45px">
+			<div style="height: 522px"></div>
+			<div style="position: absolute; top: 45px; z-index: 0">
 				<img style="width:1200px" src="assets/Ship01.png">
 			</div>
-			<div style="position: absolute; top: 2em; left: 2em;">
+			<div style="position: absolute; top: 2em; left: 2em; z-index: 0">
 				<img style="width:800px" src="assets/wos_logo.png">
 			</div>
 		</div>
 		<div class="bg" style="background-image: url(backgrounds/BG02.png)">
 			<div style="display: flex">
-				<div style="flex-grow: 1.5">
+				<div style="flex-grow: 1.5; z-index: 10">
 			    <h1 align="center">Trailer</h1>
 					<div class="video-frame">
 						<iframe width="508" height="255" frameborder="0" allow="fullscreen"
@@ -71,18 +79,22 @@ li {
 						</iframe>
 					</div>
 				</div>
-				<div style="flex-grow: 1">
+				<div style="flex-grow: 1; z-index: 10">
 					<h1 align="center">Features</h1>
 					<ul>
-						<li>Fast-paced arcade naval action pitting your lone ship against dozens of enemy ships, submarines, and airplanes.</li>
-						<li>Extensive singleplayer campaign, broken up into small pick-up-and-play missions.</li>
-						<li>Powerful ship designer that allows you to freely place parts on your ship's deck, along with customizable flags, paint jobs, and decals. Build your own destroyer, cruiser, or battleship!</li>
-						<li>Dozens of playable ships inspired by historical designs.</li>
-						<li>Hundreds of ship parts with distinct artwork and capabilities. Use naval artillery, rockets, torpedoes, anti-aircraft guns, missile launchers, and more advanced weaponry like railguns and lasers to take down the enemy!</li>
-						<li>Story-driven missions with a small cast of heroes and villains. Circumnavigate the globe in your fight against tyrrany!</li>
+						<li><b>Charge</b> into an extensive, story-driven single-player campaign, composed of small, pick-up-and-play missions.</li>
+						<li><b>Take aim</b> against the hordes of enemy ships, aircraft, submarines, and aircraft carriers, as well as bosses like a flying battleship, a colossal ice fortress, a gun made out of a volcano, and more in this alternate-history World War II.</li>
+						<li><b>Fire</b> hundreds of different weapons, including naval artillery, anti-aircraft guns, rockets, torpedoes, missiles, and advanced systems like railguns and lasers.</li>
+						<li><b>Design</b> your own custom warship with a powerful ship designer. Quickly and easily create the ship of your dreams, and the enemy's nightmares!</li>
+						<li><b>Customize</b> your ship with flags, decals, paint jobs, and cosmetic parts.</li>
 					</ul>
 				</div>
-			<p>
+			</div>
+			<div style="display: flex">
+				<img class="screenshot" src="screenshots/combat_rocketspam.jpg">
+				<img class="screenshot" src="screenshots/designer_firing_angles.jpg">
+				<img class="screenshot" src="screenshots/combat_beamspam.jpg">
+			</div>
 		</div>
 		<div class="bg" style="background-image: url(backgrounds/BG03.png">
 		</div>
