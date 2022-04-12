@@ -25,6 +25,15 @@ h1 {
   font-family: 'Roboto Slab', serif;
   color: #eee;
   font-size: 3em;
+  margin-top: .5em;
+  margin-bottom: .5em;
+}
+h3 {
+  font-family: 'Roboto Slab', serif;
+  color: #eee;
+  font-size: 1.5em;
+  margin-top: .1em;
+  margin-bottom: .1em;
 }
 p {
   color: #ddd;
@@ -105,7 +114,7 @@ a:visited {
       <div style="position: absolute; top: 45px; z-index: 0">
         <img style="width:1200px" src="assets/Ship01.png" alt="Dramatic painting of a warship being attacked by a flying battleship">
         <div class="quote" style="text-align: right; position: absolute; top: 580px; left: 780px; width: 400px">
-          "Build ridiculous ships, fight impossible battles, make lots of explosions" -- Rami Ismail
+          "Build ridiculous ships, fight impossible battles, make lots of explosions" &#8212; Rami Ismail
         </div>
       </div>
       <div style="position: absolute; top: 2em; left: 2em; z-index: 0">
@@ -149,35 +158,71 @@ a:visited {
         </a>
       </div>
     </div>
+    <div class="bg"
+      style="background-image: url(backgrounds/BG05.png);
+             position: relative;">
+      <h1 align="center">About the Game</h1>
+      <p style="text-align:center; width: 800px; margin: auto" align="center">
+        Waves of Steel is a build-your-own-warship arcade naval combat game.
+        Tyrants with access to far too many weapons are plunging the entire
+        world into conflict, and it's up to your small crew to fight back.
+        Battle the enemy's fleets, steal their technologies, and build the
+        ultimate warship. You'll need all the power you can get; the other side
+        is working tirelessly to create a weapon so powerful that nothing can
+        resist it.
+        <br><br>
+        The primary inspiration for Waves of Steel was the
+        <i>Naval Ops</i> series, released on the Playstation 2.
+        Waves of Steel has also been compared to Ace Combat, Earth Defense Force, and Kerbal Space Program.
+      </p>
+      <img
+        style="position:absolute; left:400px; width:800px; top:222px"
+        src="assets/Ship02.png"
+        alt="Painting of a warship with far too many guns. It is being shot at by an unknown assailant"
+        >
+      <a href="screenshots/combat_paradropship.jpg" data-lightbox="screens">
+        <img class="screenshot" src="screenshots/combat_paradropship.jpg"
+             alt="Screenshot of Waves of Steel, showing a group of enemy destroyers paradropping into combat. In the distance, a flight of colossal jets are departing; implicitly, they dropped the ships.">
+      </a>
+      <br>
+      <a href="screenshots/dialog_briefing.jpg" data-lightbox="screens">
+        <img class="screenshot" src="screenshots/dialog_briefing.jpg"
+             alt="Screenshot of Waves of Steel, showing a briefing before combat. A map of the terrain is visible, with many enemies marked. A character is saying &quot;Worst case, you buy us some time, which we'll use to set up a ground assault.&quot;">
+      </a>
+
+    </div>
     <div class="bg" style="background-image: url(backgrounds/BG04.png">
       <div style="display: flex">
         <div style="width: 600px; margin-left: 2em">
-          <h1>About the Developer</h1>
-          <p style="margin-top: -25px">
-            Waves of Steel is a passion project for Chris Weisiger, the founder
-            and sole employee of TMA Games LLC, based in the San Francisco Bay
-            Area. It started life as a way for him to recover from burnout at
-            his industry software development job. It's now been close to three
-            years, the game's still going strong, and Chris has no interest in
-            returning to industry work!
-          </p>
+          <h1>About the Team</h1>
+          <h3>Chris Weisiger (founder, TMA Games)</h3>
           <p>
-            The following people have also contributed significantly to the development of Waves of Steel:
+            Chris is a veteran of the software development industry. He dabbled
+            in game development throughout his life, but only recently took the
+            plunge and started doing it full-time. Waves of Steel is not his
+            first project, but it is by far his largest. It's now been close to
+            three years, the game's still going strong, and Chris has no
+            interest in returning to industry work!
+          </p>
+          <p>Chris lives in the San Francisco Bay Area with his dog, Pavlov.</p>
+          <h3>Nessa Cannon</h3>
+          <p>
+            <a href="https://www.nessacannon.com/"><b>Nessa Cannon</b></a> handles the writing.
+            
+          </p>
+          <h3>Mikel Dale</h3>
+          <p>
+            <a href="https://www.mikeldale.com/"><b>Mikel Dale</b></a> composes the music
+          </p>
+          <h3>Various artists</h3>
+          <p>
+            Waves of Steel's 2D art owes its existence to the efforts of the following people:
             <ul>
-              <li><b>Nessa Cannon</b> handles the writing</li>
-              <li><a href="https://www.mikeldale.com/"><b>Mikel Dale</b></a> composes the music</li>
-              <li><b>Nathan Gitchell, <a href="https://mobile.twitter.com/GumboatDiplomat">Thomas Mulligan</a>, Stephen Bender (WobblyPython), Pepper Quinn</b> provide various 2D artwork</li>
+              <li>Nathan Gitchell</li>
+              <li><a href="https://mobile.twitter.com/GumboatDiplomat">Thomas Mulligan</a></li>
+              <li><a href="https://www.wobblypython.com/">Stephen Bender (WobblyPython)</a></li>
+              <li><a href="https://twitter.com/pepper_a_quinn">Pepper Quinn</a></li>
             </ul>
-          </p>
-          <p>
-            Chris' primary inspiration for Waves of Steel was the
-            <i>Naval Ops</i> series, released on the Playstation 2. After their
-            developer stopped making new games, he waited for years for someone
-            else to take up the torch, before deciding, fine, he'll do it
-            himself!
-          </p>
-          <p>
-            Waves of Steel has also been compared to Ace Combat, Earth Defense Force, and Kerbal Space Program.
           </p>
           <img src="assets/Character01.png" style="width: 300px" alt="Portrait of Sidra Karim, one of the characters in Waves of Steel. She is a muscular Indian woman, with a pair of pistols in a harness. She is giving a saucy salute.">
         </div>
@@ -207,8 +252,6 @@ a:visited {
           </a>
         </div>
       </div>
-    </div>
-    <div class="bg" style="background-image: url(backgrounds/BG03.png">
     </div>
     <div class="bg" style="background-image: url(backgrounds/BG05.png">
     </div>
