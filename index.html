@@ -1,6 +1,7 @@
 <html>
   <head>
     <meta content="width=device-width, initial-scale=1" name="viewport" />
+    <link href="lightbox2/css/lightbox.css" rel="stylesheet" />
     <title>
       Waves of Steel, the arcade naval combat game by TMA Games!
     </title>
@@ -79,7 +80,7 @@ li {
   <body style="background-image: linear-gradient(#4768f4, #102456)">
     <div class="bg" style="background-image: url(backgrounds/BG01.png)">
       <header style="display: flex; height: 150px" align="center">
-        <img style="width:200px; margin:auto;" src="assets/tma_logo_white.png">
+        <img style="width:200px; margin:auto;" src="assets/tma_logo_white.png" alt="TMA Games company logo">
         <nav style="position: relative; top: 90px; right: 20px">
           <a class="header-link" href="index.html">HOME</a>
           &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
@@ -88,10 +89,10 @@ li {
       </header>
       <div style="height: 522px"></div>
       <div style="position: absolute; top: 45px; z-index: 0">
-        <img style="width:1200px" src="assets/Ship01.png">
+        <img style="width:1200px" src="assets/Ship01.png" alt="Dramatic painting of a warship being attacked by a flying battleship">
       </div>
       <div style="position: absolute; top: 2em; left: 2em; z-index: 0">
-        <img style="width:800px" src="assets/wos_logo.png">
+        <img style="width:800px" src="assets/wos_logo.png" alt="Waves of Steel game logo">
       </div>
     </div>
     <div class="bg" style="background-image: url(backgrounds/BG02.png)">
@@ -117,9 +118,18 @@ li {
         </div>
       </div>
       <div style="display: flex">
-        <img class="screenshot" src="screenshots/combat_rocketspam.jpg">
-        <img class="screenshot" src="screenshots/designer_firing_angles.jpg">
-        <img class="screenshot" src="screenshots/combat_beamspam.jpg">
+        <a href="screenshots/combat_rocketspam.jpg" data-lightbox="screens">
+          <img class="screenshot" src="screenshots/combat_rocketspam.jpg"
+           alt="Screenshot of Waves of Steel, showing the player fighting a group of enemy ships. Artillery shells and rockets are flying everywhere.">
+        </a>
+        <a href="screenshots/designer_firing_angles.jpg" data-lightbox="screens">
+          <img class="screenshot" src="screenshots/designer_firing_angles.jpg"
+           alt="Screenshot of Waves of Steel, showing the ship designer. A destroyer is being built. The destroyer is decorated with flags, paint, and an angry mouth at the prow.">
+        </a>
+        <a href="screenshots/combat_beamspam.jpg" data-lightbox="screens">
+          <img class="screenshot" src="screenshots/combat_beamspam.jpg"
+           alt="Screenshot of Waves of Steel, showing enemy aircraft being shot down by lasers, fired by the player's ship.">
+        </a>
       </div>
     </div>
     <div class="bg" style="background-image: url(backgrounds/BG03.png">
@@ -129,5 +139,16 @@ li {
     <div class="bg" style="background-image: url(backgrounds/BG05.png">
     </div>
 
+    <script src="lightbox2/js/lightbox-plus-jquery.js">
+    </script>
+    <script>
+      lightbox.option({
+        'resizeDuration': 50,
+        'fadeDuration': 200,
+        'imageFadeDuration': 200,
+        'resizeDuration': 200,
+        'wrapAround': true,
+      });
+    </script>
   </body>
 </html>
