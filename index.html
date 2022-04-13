@@ -133,7 +133,14 @@ a:visited {
   margin-left: .2em;
   margin-right: .2em;
 }
-@media only screen and (max-width: 400px) {
+.footnote {
+  color: #ddd;
+  text-align: right;
+  margin-top: 1em;
+  margin-right: 2em;
+  width: 100%;
+}
+@media only screen and (max-width: 430px) {
 /* Rules made in here only apply if the screen is mobile */
   .trailer_and_features {
     flex-direction: column;
@@ -157,6 +164,123 @@ a:visited {
     margin-left: auto;
     margin: auto;
     width: 90%;
+  }
+}
+@media only screen and (max-width: 430px) {
+/* Rules made in here only apply if the screen is mobile */
+ .fullwidth {
+  width: 100vw;
+}
+  body {
+    margin: 0 !important;
+    padding: 0 !important;
+
+  }
+
+
+  .trailer {
+    height: inherit !important;
+  }
+  .hero {
+    width: calc((80vw / 8));
+    display: inline-block;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+  .press-logo {
+    width: 40vw !important;;
+    height: inherit !important;;
+  }
+  .press-header {
+    margin-bottom: 20px;
+  }
+  
+  .video-frame {
+    background: inherit !important;
+    width: 100vw !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  .trailer {
+    width: 100vw !important;
+  }
+  .trailer iframe {
+    width: 100vw !important;
+    position: relative !important;
+    top: 0 !important;
+    left: 0 !important;
+  }
+  .flex {
+    flex-wrap: wrap;
+    justify-content: space-evenly !important;
+  }
+  .flex * {
+    margin: 5px;
+    padding: 0;
+  }
+  .flex span {
+    display: none !important; 
+  }
+  .quote {
+    display: inline-block !important;
+    position: static !important;
+    display: none !important;;
+  
+  }
+  .basic_info {
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+  .basic_info .character {
+    position: relative !important;
+    top: -100px !important;
+    left: 40vw !important;
+  }
+  .basic_info a {
+    margin-left: 0 !important;
+  }
+  
+  .about_the_team .character {
+    width: 50vw !important;
+  }
+  .fullwidth .about_the_game  {
+    width: calc(100vw - 20px) !important;
+    margin: 0 !important;
+    padding: 0 10px;
+  }
+  .fullwidth .ship2  {
+    display: none
+  }
+  .press-header {
+    position: static !important;
+    margin: 0 !important;
+    text-align: center !important;
+    margin-bottom: 0.5em !important;;
+  }
+  /* Cheap Mobile Hack */
+  img[src="assets/Ship01.png"] {
+    margin-top: 70px;
+    left: 0 !important;
+    width: 80vw;
+    margin-left: 20vw;
+
+  }
+    .wos_logo {
+      width: 50vw;
+      margin-top: -60px;
+      margin-left: -60px
+  }
+  
+  .bg1pad {
+    height: 150px
+  }
+    .video-frame h3 {
+    position: static !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    text-align: center;
+      margin-top: 1em !important;: 
   }
 }
 </style>
@@ -354,6 +478,9 @@ a:visited {
                             alt="Character art of Arbuthnot">
         </a>
         <span style="flex-grow: 1"></span>
+      </div>
+      <div class="footnote">
+        Huge thanks to <a href="https://systemlogoff.com/">SysL</a> for helping with this site's CSS!
       </div>
     </div>
 
