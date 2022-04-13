@@ -100,6 +100,19 @@ a:visited {
   display: flex;
   flex-direction: row;
 }
+.ship2 {
+  position: absolute;
+  left: 400px;
+  width: 800px;
+  top: 222px;
+  z-index: 0;
+}
+.about_the_game {
+  text-align: center;
+  width: 800px;
+  margin: auto;
+  z-index: 10;
+}
 .about_the_team {
   width: 45%;
   margin-left: 2em;
@@ -206,7 +219,7 @@ a:visited {
       style="background-image: url(backgrounds/BG05.png);
              position: relative;">
       <h1 align="center">About the Game</h1>
-      <p style="text-align:center; width: 800px; margin: auto; z-index: 10" align="center">
+      <p class="about_the_game" align="center">
         Waves of Steel is a build-your-own-warship arcade naval combat game.
         Tyrants with access to far too many weapons are plunging the entire
         world into conflict, and it's up to your small crew to fight back.
@@ -220,7 +233,7 @@ a:visited {
         Waves of Steel has also been compared to Ace Combat, Earth Defense Force, and Kerbal Space Program.
       </p>
       <img
-        style="position:absolute; left:400px; width:800px; top:222px; z-index: 0"
+        class="ship2"
         src="assets/Ship02.png"
         alt="Painting of a warship with far too many guns. It is being shot at by an unknown assailant"
         >
