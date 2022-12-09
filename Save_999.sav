@@ -1,0 +1,5463 @@
+{
+  "options": {
+    "isFullscreen": true,
+    "resolutionIndex": 65,
+    "vfx_screenshake": 0.5,
+    "vfx_aberration": 0.5,
+    "vfx_contrast": 0.5,
+    "yIsInverted": false,
+    "difficultyOption": "NORMAL",
+    "fireIsToggle": false,
+    "cameraSensitivity": 0.5,
+    "vfx_timescale": 0.5,
+    "vfx_rumble": 0.5,
+    "SFXvolume": 0.5,
+    "AMBIENTvolume": 0.3,
+    "MUSICvolume": 0.0,
+    "soundIsStereo": true
+  },
+  "saveExists": {
+    "yes": "yes"
+  },
+  "missionUnlocks": {
+    "unlockedMissions": [
+      "100_tutorial",
+      "110_guam",
+      "120_truk",
+      "130_midway",
+      "140_open_ocean",
+      "150_pearl_harbor",
+      "160_open_survive",
+      "170_galapagos",
+      "180_panama",
+      "190_convoy",
+      "halloween",
+      "200_norfolk",
+      "210_scapa_flow_convoy",
+      "dd_scoreattack",
+      "220_trondheim",
+      "230_north_sea",
+      "240_snowflake",
+      "250_katla",
+      "260_dday",
+      "270_spanish_coast",
+      "280_gibraltar",
+      "290_vesuvius",
+      "300_malta",
+      "310_suez",
+      "ca_scoreattack",
+      "stresstest",
+      "320_gulf_of_aden",
+      "330_mumbai",
+      "340_singapore",
+      "race1",
+      "350_hongkong",
+      "360_spacebase",
+      "370_arbuthnot",
+      "380_kure",
+      "390_northpac",
+      "race2",
+      "400_biggestgun",
+      "410_magma",
+      "420_weaver",
+      "bb_scoreattack",
+      "ship_test",
+      "test"
+    ]
+  },
+  "techTreeUnlocks": {
+    "techs": {
+      "1.1x75calquad": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "hawkinscircle": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "10x16x2tapered": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "kongoplatform": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "1936super": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "scharnhorstsuper": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "hawkinsarrow": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "yorkblock": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "konigsuper2": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "21torp3tube": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "type1934super": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "tribalsuper": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "konigsuper1": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "iowabluntarrow": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "4x50x1barrel": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "iowaarrow": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "nelsonsuper": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "4x16x2box": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "4x8x2box": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "bayerndiamond": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "warrow": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "ssuper": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "8x16x2tapered": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "8x16x4box": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "isefourlobed": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "kagerotrapezoid": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "ammodepotdd": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "ammodepotca": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "ammodepotbb": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "battlesuper1": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "battlesuper2": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "bluntarrow": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "drillbb": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "drillca": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "drilldd": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "clemsonaftbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "clemsonbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "clemsonvent": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "coalfiredturbine": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "coalfiredturbinebb": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "coalfiredturbineca": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "crane": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "depthchargeprojector": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "directdrivetransbb": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "directdrivetransca": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "directdrivetrans": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "shifter1": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "doubleoctagon": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "drifter1": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "akizukisuper": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "flagpole": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "flagpoleshort": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "flagpoletall": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "foghorn": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "hussar": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "overdrive1": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "radar1": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "ram1": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "sashimono": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "searchlight": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "searchlight-blue": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "searchlight-green": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "searchlight-red": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "sakuraplatform": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "sonar1": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "foghorn2": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "clemson": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "5in1bar": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "wbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "sakura": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "sakurabridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "sakuraaftbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "sakuravent": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "v25": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "farragutvent": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "farragutbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "farragut": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "asrocket": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "QF4x2": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "v25bridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "wvent": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "farragutaftbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "21torprolloff": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "w": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "21torp4tube": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "spartorp": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "5in2bar": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "gearedtrans": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "radar2": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "firecontrol1": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "pdcommand1": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "fubuki": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "fubukibridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "21torp5tube": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "minidestroyer": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "autoloader1": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "pompom_4barrel": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "b97": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "b97vent": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "b97bridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "b97aftbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "porter": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "porterbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "21torp6tube": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "novgorod": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "pulverisedcoalturbine": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "tribal": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "tribalbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "firecontrol2": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "autoloader2": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "pdcommand2": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "porteraftbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "flamethrower": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "21torp7tube": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "bangflaggun": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "hedgehog": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "sonar2": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "kagero": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "kagerovent": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "kagerobridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "s": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "sbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "24torp3tube": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "21ll3tube": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "21llrolloff": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "aarocket": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "oilcoalturbine": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "5in3bar": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "portervent": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "fletcher": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "fletcherbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "type1934": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "type1934bridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "24torp4tube": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "21ll4tube": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "24torprolloff": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "100mmgatling": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "6in1bar": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "autoloader3": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "fletchervent": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "svent": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "type1934vent": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "radar3": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "1936": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "1936bridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "24torp5tube": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "21ll5tube": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "akizuki": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "akizukibridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "akizukiaftbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "raft": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "6in2bar": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "turboelectrans": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "firecontrol3": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "minelayer": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "5in4bar": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "1936aftbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "sumner": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "sumnerbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "24torp6tube": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "21ll6tube": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "battle": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "battlebridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "battleaftbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "grapple": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "yugumo": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "throttle1": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "scavenger1": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "yugumobridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "bombard": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "6in3bar": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "1936vent": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "shield1": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "24torp7tube": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "21ll7tube": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "akizukivent": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "twindestroyer": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "hawkins": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "hawkinsbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "hawkinsaftbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "hawkinsvent": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "6in4bar": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "radar4": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "8in1bar": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "emp1": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "28torp3tube": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "28torprolloff": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "boxofhats": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "oerlikonx1": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "coln": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "colnbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "colnaftbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "colnvent": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "ram2": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "pdcommand3": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "8in2bar": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "28torp4tube": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "pompom_8barrel": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "myoko": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "bowjet1": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "myokobridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "myokoaftbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "myokovent": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "oilturbine": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "minelayer2": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "overdrive2": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "28torp5tube": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "county": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "countybridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "countyaftbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "decoy": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "9inmlrs": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "autoloader4": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "northampton": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "northamptonbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "northamptonvent": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "8in3bar": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "sawblade": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "shifter2": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "28torp6tube": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "shotgunaa": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "york": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "8in4bar": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "firecontrol4": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "yorkbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "yorkaftbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "28cmx1bar": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "countyvent": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "28torp7tube": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "tethermine": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "throttle2": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "boforsx2": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "takao": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "takaobridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "konigsberg": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "konigsbergbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "konigsbergaftbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "konigsbergvent": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "sonar3": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "surfboard": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "radar5": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "portland": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "portlandbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "portlandaftbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "portlandvent": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "28cmx2bar": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "scavenger2": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "pdcommand4": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "repulsor1": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "tripodgun": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "dieselturbine": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "squid": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "leander": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "leandervent": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "leanderbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "mogami": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "mogamibridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "radar6": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "bowjet2": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "deutschland": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "deutschlandbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "deutschlandvent": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "deutschlandaftbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "blacksmoke": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "neworleans": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "neworleansvent": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "autoloader5": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "oerlikonx2": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "12in1bar": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "28cmx3bar": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "28cmx4bar": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "neworleansbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "neworleansaftbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "town": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "townaftbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "townbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "townvent": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "hipperbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "hipperaftbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "hippervent": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "170mmgatling2bar": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "firecontrol5": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "baltimore": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "baltimorebridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "baltimoreaftbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "baltimorevent": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "12in2bar": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "hipper": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "baltimorebridge2": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "baltimoreaftbridge2": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "tone": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "tonebridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "toneaftbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "tonevent": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "bazel": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "scavenger3": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "dreadnought": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "dreadnoughtbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "dreadnoughtaftbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "dreadnoughtvent": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "12in3bar": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "boforsx4": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "pdcommand5": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "ram3": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "lasersword": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "konig": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "gatling": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "14in1bar": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "12in4bar": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "kongobridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "konigbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "konigaftbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "kongo": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "kongovent": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "bowjet3": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "timebubble1": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "14in2bar": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "gasturbine": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "ciws20mm": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "pennsylvaniabridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "pennsylvaniaaftbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "queenelizabethaftbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "queenelizabethbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "pennsylvania": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "queenelizabeth": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "firecontrol6": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "plasmagatling": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "hood": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "ise": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "14in3bar": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "16in1bar": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "bayern": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "bayernbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "hoodaftbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "iseaftbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "bayernvent": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "hoodvent": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "isevent": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "asroc": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "28torpgatling": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "hydrojet": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "14in4bar": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "16in2bar": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "coloradobridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "coloradoaftbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "hoodbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "isebridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "colorado": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "pdcommand6": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "pompom_8gat": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "250mmgatling2bar": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "autoloader6": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "asmissile1": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "lasertorp3tube": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "16in3bar": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "18in1bar": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "firecontrol7": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "nagatoaftbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "nagatobridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "northcarolinabridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "northcarolinaaftbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "nagato": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "northcarolina": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "northcarolinavent": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "bowjet4": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "pdcommand7": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "kickflip": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "16in4bar": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "18in2bar": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "5x25x1bar": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "nelsonaftbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "nelsonbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "scharnhorstaftbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "scharnhorstbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "nelson": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "scharnhorst": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "scharnhorstvent": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "nelsonvent": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "autoloader7": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "asmissile2": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "homingmine": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "nuketurbine": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "18in3bar": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "sam": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "bismarckaftbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "bismarckbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "bismarck": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "bismarckvent": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "radar7": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "bowjet5": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "samvls": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "ram4": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "pompadourbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "18in4bar": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "12xlaser": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "yamatoaftbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "yamatobridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "yamato": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "yamatovent": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "throttle3": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "21in1bar": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "21in2bar": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "lasershotgun": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "asmissile3": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "ram": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "21in3bar": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "kinggeorgevaftbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "kinggeorgevbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "kinggeorgev": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "kinggeorgevvent": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "80cm2bar": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "radar8": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "21in4bar": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "discolaser": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "1meter": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "iowaaftbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "iowabridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "iowa": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "iowavent": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "scavenger4": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "pdcommand8": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "biggestgunbeta": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "lightaalaser": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "homing1": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "firecontrol8": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "plasmamortar": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "plasmatorp": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "plasmarepulsor": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "spreadplasma": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "omega": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "railgun": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "supercavitating": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "enterprisebb": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "80cmblender": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "homing2": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "autoloader8": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "snekmissile": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "10meter": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "skullbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "fireworks": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "ddbone": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "ddribcage": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "cloak1": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "muscles": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "catarget": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "bbtarget": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "supernagato": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "superomega": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "akagi": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "bogue": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "enterprise-cvn65": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "submarine": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "submarine2": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "submarine3": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "subreinforcer": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "subtarget": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "typhoon": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "ptboat": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "pttarget": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "speedboat": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "flybattle": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "i800bb": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "i800sub": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "mech": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "mechboat": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "mechshield": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "nidhoggr": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "nidhoggr2": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "ratatosk": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "ratatosk2": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "ratatosk3": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "traincore": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "traintrack": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "ammoship": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "libertyship": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "lst": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "ddtarget": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "1.1x75calquadvsproj": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "perfect21torp5tube": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "21torp1tube": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "24long7tube": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "28long7tube": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "townsuper": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "56torpgatling": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "bismarcksuper": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "8in1barlow": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "9inmlrslow": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "airocketbooster": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "airlaser1": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "airlaser2": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "airlaser3": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "airlaser4": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "airlaser5": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "airlaser6": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "airlaser7": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "airlaser8": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "airlaser9": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "airrocket1": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "airrocket2": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "airrocket3": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "airrocket4": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "airrocket5": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "airrocket6": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "airrocket7": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "airrocket8": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "airrocket9": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "airtorpedo1": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "airtorpedo2": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "airtorpedo3": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "airtorpedo4": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "airtorpedo5": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "airtorpedo6": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "airtorpedo7": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "airtorpedo8": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "airtorpedo9": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "airmine": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "akagibridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "rippleasmissile2": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "apotamkintorp": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "bicorn": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "biggestbayonet": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "biggestgun": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "blueshell": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "boguebridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "bomb0": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "bomb1": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "bomb2": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "bomb3": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "bomb4": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "bomb5": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "bomb6": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "bomb7": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "bomb8": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "bomb9": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "bunlaser": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "catears": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "tonesuper": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "cvn65bridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "demomissile": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "demometeorgun1": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "depthchargelauncher": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "dieselturbineca": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "dieselturbinebb": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "traindora": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "dummyvtolplanelaunch": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "dummygun": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "hydrojetbb": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "hydrojetca": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "excessiveflame": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "musclesbb": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "musclesca": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "rocketjump": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "paperhat": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "gasturbineca": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "gasturbinebb": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "gearedtransbb": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "gearedtransca": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "16in3bargold": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "5in2bargold": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "8in3bargold": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "gunpod": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "directdrivetrans2bb": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "directdrivetrans2": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "directdrivetrans2ca": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "hydrojet2bb": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "hydrojet2ca": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "hydrojet2": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "gearedtrans2": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "gearedtrans2ca": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "gearedtrans2bb": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "airheavycannon1": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "airheavycannon2": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "airheavycannon3": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "airheavycannon4": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "airheavycannon5": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "airheavycannon6": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "airheavycannon7": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "airheavycannon8": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "airheavycannon9": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "turboelectrans2ca": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "turboelectrans2": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "turboelectrans2bb": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "asrocketbad": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "invisbridgebb": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "invisbridgeca": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "invisbridgedd": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "invisbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "iowabridge2": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "jetengine": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "reliable21torp5tube": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "lasermlrs": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "lasertorpaim": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "longrangelasertorp3tube": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "lasertorprolloff": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "lasertorp4tube": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "lasertorp5tube": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "lasertorp6tube": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "lasertorp7tube": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "libertybridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "aircannon1": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "aircannon2": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "aircannon3": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "aircannon4": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "aircannon5": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "aircannon6": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "aircannon7": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "aircannon8": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "aircannon9": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "lightning": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "tripodgun2": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "170mmgatling2barlong": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "mechbazooka": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "mechbazooka2": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "mechbazooka3": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "mechbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "mechbuster": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "mechbuster2": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "mechmelee": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "mechmissile": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "meteorrain": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "plasmamicro": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "microtorp": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "mtechcabridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "mtechddbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "mtechbbbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "nid_planegun": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "nuketurbineca": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "nuketurbinebb": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "oilturbineca": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "oilturbinebb": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "oilcoalturbineca": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "oilcoalturbinebb": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "planegun": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "airplasma": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "plasma": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "plasmamineboss": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "plasmamortarboss": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "plasmarepulsorboss": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "plasmatorpboss": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "bombdummy": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "pulverisedcoalturbineca": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "pulverisedcoalturbinebb": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "pumpkinbomb": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "pusherlasertorp": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "scavengerrace": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "rocketboosterrace": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "reliable28torp3tube": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "reliablelasertorp3tube": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "repulsormine": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "rocketbooster": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "sharkfin": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "shipgun": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "meteorshipgun": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "jetenginesmall": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "meteorgun1": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "meteorgun2": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "snowflakeaa": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "speedrocketjump": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "spreadplasmaboss": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "strawboater": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "subasm1": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "supernagatoaftbridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "supernagatobridge": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "plasmasuper": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "supercavitatingca": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "supercavitatingbb": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "tophat": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "trainengine": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "trainwhistle": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "ridiculousflame": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "turboelectransca": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      },
+      "turboelectransbb": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "vtolplanelaunch": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "weakhoming1": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": true
+      },
+      "worldsbiggestlaser": {
+        "available": false,
+        "purchased": true,
+        "availTime": 0,
+        "numFound": 0,
+        "isNew": false
+      }
+    },
+    "rpBalance": 0
+  },
+  "difficulty": {
+    "aiReloadTimeMultiplier": 2,
+    "aiAccuracyMultiplier": 1.5,
+    "damageToPlayerMultiplier": 0.05
+  },
+  "missionStats": {
+    "100_tutorial": {
+      "bestTime": 100000000.0,
+      "bestTimeShip": "Mystery ship",
+      "numAttempts": 1,
+      "numWins": 1
+    },
+    "110_guam": {
+      "bestTime": 100000000.0,
+      "bestTimeShip": "Mystery ship",
+      "numAttempts": 1,
+      "numWins": 1
+    },
+    "120_truk": {
+      "bestTime": 100000000.0,
+      "bestTimeShip": "Mystery ship",
+      "numAttempts": 1,
+      "numWins": 1
+    },
+    "130_midway": {
+      "bestTime": 100000000.0,
+      "bestTimeShip": "Mystery ship",
+      "numAttempts": 1,
+      "numWins": 1
+    },
+    "140_open_ocean": {
+      "bestTime": 196.8817,
+      "bestTimeShip": "tier-1 destroyer",
+      "numAttempts": 2,
+      "numWins": 2
+    },
+    "150_pearl_harbor": {
+      "bestTime": 100000000.0,
+      "bestTimeShip": "Mystery ship",
+      "numAttempts": 1,
+      "numWins": 1
+    },
+    "160_open_survive": {
+      "bestTime": 100000000.0,
+      "bestTimeShip": "Mystery ship",
+      "numAttempts": 1,
+      "numWins": 1
+    },
+    "170_galapagos": {
+      "bestTime": 100000000.0,
+      "bestTimeShip": "Mystery ship",
+      "numAttempts": 1,
+      "numWins": 1
+    },
+    "180_panama": {
+      "bestTime": 92.28013,
+      "bestTimeShip": "tier-5 destroyer",
+      "numAttempts": 2,
+      "numWins": 2
+    },
+    "190_convoy": {
+      "bestTime": 100000000.0,
+      "bestTimeShip": "Mystery ship",
+      "numAttempts": 1,
+      "numWins": 1
+    },
+    "200_norfolk": {
+      "bestTime": 100000000.0,
+      "bestTimeShip": "Mystery ship",
+      "numAttempts": 1,
+      "numWins": 1
+    },
+    "210_scapa_flow_convoy": {
+      "bestTime": 100000000.0,
+      "bestTimeShip": "Mystery ship",
+      "numAttempts": 1,
+      "numWins": 1
+    },
+    "220_trondheim": {
+      "bestTime": 100000000.0,
+      "bestTimeShip": "Mystery ship",
+      "numAttempts": 1,
+      "numWins": 1
+    },
+    "230_north_sea": {
+      "bestTime": 100000000.0,
+      "bestTimeShip": "Mystery ship",
+      "numAttempts": 1,
+      "numWins": 1
+    },
+    "240_snowflake": {
+      "bestTime": 100000000.0,
+      "bestTimeShip": "Mystery ship",
+      "numAttempts": 1,
+      "numWins": 1
+    },
+    "250_katla": {
+      "bestTime": 100000000.0,
+      "bestTimeShip": "Mystery ship",
+      "numAttempts": 1,
+      "numWins": 1
+    },
+    "260_dday": {
+      "bestTime": 100000000.0,
+      "bestTimeShip": "Mystery ship",
+      "numAttempts": 1,
+      "numWins": 1
+    },
+    "270_spanish_coast": {
+      "bestTime": 100000000.0,
+      "bestTimeShip": "Mystery ship",
+      "numAttempts": 1,
+      "numWins": 1
+    },
+    "280_gibraltar": {
+      "bestTime": 100000000.0,
+      "bestTimeShip": "Mystery ship",
+      "numAttempts": 1,
+      "numWins": 1
+    },
+    "290_vesuvius": {
+      "bestTime": 100000000.0,
+      "bestTimeShip": "Mystery ship",
+      "numAttempts": 1,
+      "numWins": 1
+    },
+    "300_malta": {
+      "bestTime": 100000000.0,
+      "bestTimeShip": "Mystery ship",
+      "numAttempts": 1,
+      "numWins": 1
+    },
+    "310_suez": {
+      "bestTime": 100000000.0,
+      "bestTimeShip": "Mystery ship",
+      "numAttempts": 1,
+      "numWins": 1
+    },
+    "320_gulf_of_aden": {
+      "bestTime": 100000000.0,
+      "bestTimeShip": "Mystery ship",
+      "numAttempts": 1,
+      "numWins": 1
+    },
+    "330_mumbai": {
+      "bestTime": 100000000.0,
+      "bestTimeShip": "Mystery ship",
+      "numAttempts": 1,
+      "numWins": 1
+    },
+    "340_singapore": {
+      "bestTime": 100000000.0,
+      "bestTimeShip": "Mystery ship",
+      "numAttempts": 1,
+      "numWins": 1
+    },
+    "350_hongkong": {
+      "bestTime": 100000000.0,
+      "bestTimeShip": "Mystery ship",
+      "numAttempts": 1,
+      "numWins": 1
+    },
+    "360_spacebase": {
+      "bestTime": 100000000.0,
+      "bestTimeShip": "Mystery ship",
+      "numAttempts": 1,
+      "numWins": 1
+    },
+    "370_arbuthnot": {
+      "bestTime": 100000000.0,
+      "bestTimeShip": "Mystery ship",
+      "numAttempts": 1,
+      "numWins": 1
+    },
+    "380_kure": {
+      "bestTime": 100000000.0,
+      "bestTimeShip": "Mystery ship",
+      "numAttempts": 1,
+      "numWins": 1
+    },
+    "390_northpac": {
+      "bestTime": 100000000.0,
+      "bestTimeShip": "Mystery ship",
+      "numAttempts": 1,
+      "numWins": 1
+    },
+    "400_biggestgun": {
+      "bestTime": 220.7886,
+      "bestTimeShip": "tier-5 battleship",
+      "numAttempts": 2,
+      "numWins": 2
+    },
+    "410_magma": {
+      "bestTime": 100000000.0,
+      "bestTimeShip": "Mystery ship",
+      "numAttempts": 1,
+      "numWins": 1
+    },
+    "420_weaver": {
+      "bestTime": 100000000.0,
+      "bestTimeShip": "Mystery ship",
+      "numAttempts": 1,
+      "numWins": 1
+    },
+    "bb_scoreattack": {
+      "bestTime": 100000000.0,
+      "bestTimeShip": "Mystery ship",
+      "numAttempts": 1,
+      "numWins": 1
+    },
+    "ca_scoreattack": {
+      "bestTime": 100000000.0,
+      "bestTimeShip": "Mystery ship",
+      "numAttempts": 1,
+      "numWins": 1
+    },
+    "dd_scoreattack": {
+      "bestTime": 100000000.0,
+      "bestTimeShip": "Mystery ship",
+      "numAttempts": 1,
+      "numWins": 1
+    },
+    "halloween": {
+      "bestTime": 100000000.0,
+      "bestTimeShip": "Mystery ship",
+      "numAttempts": 1,
+      "numWins": 1
+    },
+    "race1": {
+      "bestTime": 100000000.0,
+      "bestTimeShip": "Mystery ship",
+      "numAttempts": 1,
+      "numWins": 1
+    },
+    "race2": {
+      "bestTime": 100000000.0,
+      "bestTimeShip": "Mystery ship",
+      "numAttempts": 1,
+      "numWins": 1
+    },
+    "stresstest": {
+      "bestTime": 100000000.0,
+      "bestTimeShip": "Mystery ship",
+      "numAttempts": 1,
+      "numWins": 1
+    }
+  },
+  "shipDesignerTutorial": {
+    "tutorialState": "STRUCTURES",
+    "tutorialDone": true
+  },
+  "canUseShipDesigner": {
+    "haveSeenDialog": true
+  },
+  "playerShipDefs": {
+    "tier-1 destroyer": {
+      "name": "tier-1 destroyer",
+      "hull": "farragut",
+      "flag": "010_USN",
+      "parts": [
+        "{\r\n  \"position\": \"[0, -1.439214, 3]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"10x16x2tapered\"\r\n}",
+        "{\r\n  \"position\": \"[0, -1.384838, 20]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"1936super\"\r\n}",
+        "{\r\n  \"position\": \"[0, 0.5907863, 3]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"parent\": {\r\n    \"position\": \"[0, -1.439214, 3]\",\r\n    \"rotation\": \"[0, 0, 0]\",\r\n    \"name\": \"Placed 10x16x2tapered at 0,3\"\r\n  },\r\n  \"name\": \"farragutbridge\"\r\n}",
+        "{\r\n  \"position\": \"[0, -1.308989, 45]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"farragutaftbridge\"\r\n}",
+        "{\r\n  \"position\": \"[-3.5, -0.3866477, -9.5]\",\r\n  \"rotation\": \"[0, 90, 0]\",\r\n  \"name\": \"21torp5tube\",\r\n  \"weaponGroups\": [\r\n    1\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -60.0,\r\n  \"maxY\": 60.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[3.5, -0.3866477, -9.5]\",\r\n  \"rotation\": \"[0, 270, 0]\",\r\n  \"name\": \"21torp5tube\",\r\n  \"weaponGroups\": [\r\n    1\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -60.0,\r\n  \"maxY\": 60.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[-2, -8.849001, -6]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"gearedtrans\"\r\n}",
+        "{\r\n  \"position\": \"[2, -8.849001, -6]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"gearedtrans\"\r\n}",
+        "{\r\n  \"position\": \"[-2, -8.849001, 5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"oilcoalturbine\"\r\n}",
+        "{\r\n  \"position\": \"[2, -8.849001, 5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"oilcoalturbine\"\r\n}",
+        "{\r\n  \"position\": \"[0, -8.849001, 17]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"oilcoalturbine\"\r\n}",
+        "{\r\n  \"position\": \"[-3.5, -1.405874, 12.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"farragutvent\"\r\n}",
+        "{\r\n  \"position\": \"[3.5, -1.405874, 12.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"farragutvent\"\r\n}",
+        "{\r\n  \"position\": \"[-1.5, -1.39654, 15.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"farragutvent\"\r\n}",
+        "{\r\n  \"position\": \"[1.5, -1.39654, 15.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"farragutvent\"\r\n}",
+        "{\r\n  \"position\": \"[1.5, -1.382822, 20]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"farragutvent\"\r\n}",
+        "{\r\n  \"position\": \"[-1.5, -1.382822, 20]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"farragutvent\"\r\n}",
+        "{\r\n  \"position\": \"[-3.5, 0.5907863, -0.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"parent\": {\r\n    \"position\": \"[0, -1.439214, 3]\",\r\n    \"rotation\": \"[0, 0, 0]\",\r\n    \"name\": \"Placed 10x16x2tapered at 0,3\"\r\n  },\r\n  \"name\": \"pompom_4barrel\",\r\n  \"weaponGroups\": [\r\n    2\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -180.0,\r\n  \"maxY\": 180.0,\r\n  \"autofireMask\": \"SMALLSHIP, PLANE, MISSILE\"\r\n}",
+        "{\r\n  \"position\": \"[3.5, 0.5907863, -0.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"parent\": {\r\n    \"position\": \"[0, -1.439214, 3]\",\r\n    \"rotation\": \"[0, 0, 0]\",\r\n    \"name\": \"Placed 10x16x2tapered at 0,3\"\r\n  },\r\n  \"name\": \"pompom_4barrel\",\r\n  \"weaponGroups\": [\r\n    2\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -180.0,\r\n  \"maxY\": 180.0,\r\n  \"autofireMask\": \"SMALLSHIP, PLANE, MISSILE\"\r\n}",
+        "{\r\n  \"position\": \"[-4.5, 1.779264, 22]\",\r\n  \"rotation\": \"[0, 180, 0]\",\r\n  \"parent\": {\r\n    \"position\": \"[0, -1.384838, 20]\",\r\n    \"rotation\": \"[0, 0, 0]\",\r\n    \"name\": \"Placed 1936super at 0,20\"\r\n  },\r\n  \"name\": \"pompom_4barrel\",\r\n  \"weaponGroups\": [\r\n    2\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -180.0,\r\n  \"maxY\": 180.0,\r\n  \"autofireMask\": \"SMALLSHIP, PLANE, MISSILE\"\r\n}",
+        "{\r\n  \"position\": \"[4.5, 1.779264, 22]\",\r\n  \"rotation\": \"[0, 180, 0]\",\r\n  \"parent\": {\r\n    \"position\": \"[0, -1.384838, 20]\",\r\n    \"rotation\": \"[0, 0, 0]\",\r\n    \"name\": \"Placed 1936super at 0,20\"\r\n  },\r\n  \"name\": \"pompom_4barrel\",\r\n  \"weaponGroups\": [\r\n    2\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -180.0,\r\n  \"maxY\": 180.0,\r\n  \"autofireMask\": \"SMALLSHIP, PLANE, MISSILE\"\r\n}",
+        "{\r\n  \"position\": \"[0, 1.558064, -38]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"5in3bar\",\r\n  \"weaponGroups\": [\r\n    0\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -150.0,\r\n  \"maxY\": 150.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[0, 3.407754, -31.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"5in3bar\",\r\n  \"weaponGroups\": [\r\n    0\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -150.0,\r\n  \"maxY\": 150.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[0, 1.222757, -23.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"5in3bar\",\r\n  \"weaponGroups\": [\r\n    0\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -160.0,\r\n  \"maxY\": 160.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[0, -1.329908, 37.5]\",\r\n  \"rotation\": \"[0, 180, 0]\",\r\n  \"name\": \"5in3bar\",\r\n  \"weaponGroups\": [\r\n    0\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -150.0,\r\n  \"maxY\": 150.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[0, 0.6502782, 31]\",\r\n  \"rotation\": \"[0, 180, 0]\",\r\n  \"name\": \"5in3bar\",\r\n  \"weaponGroups\": [\r\n    0\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -150.0,\r\n  \"maxY\": 150.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[-4, -1.36957, 28]\",\r\n  \"rotation\": \"[0, 90, 0]\",\r\n  \"name\": \"depthchargeprojector\",\r\n  \"weaponGroups\": [\r\n    3\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -90.0,\r\n  \"maxY\": 90.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[4, -1.36957, 28]\",\r\n  \"rotation\": \"[0, 270, 0]\",\r\n  \"name\": \"depthchargeprojector\",\r\n  \"weaponGroups\": [\r\n    3\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -90.0,\r\n  \"maxY\": 90.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[-2, -1.301695, 48]\",\r\n  \"rotation\": \"[0, 90, 0]\",\r\n  \"name\": \"depthchargeprojector\",\r\n  \"weaponGroups\": [\r\n    3\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -90.0,\r\n  \"maxY\": 90.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[2, -1.301695, 48]\",\r\n  \"rotation\": \"[0, 270, 0]\",\r\n  \"name\": \"depthchargeprojector\",\r\n  \"weaponGroups\": [\r\n    3\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -90.0,\r\n  \"maxY\": 90.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[-3.5, 1.065865, -17]\",\r\n  \"rotation\": \"[0, 90, 0]\",\r\n  \"name\": \"depthchargeprojector\",\r\n  \"weaponGroups\": [\r\n    3\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -90.0,\r\n  \"maxY\": 90.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[3.5, 1.065865, -17]\",\r\n  \"rotation\": \"[0, 270, 0]\",\r\n  \"name\": \"depthchargeprojector\",\r\n  \"weaponGroups\": [\r\n    3\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -90.0,\r\n  \"maxY\": 90.0,\r\n  \"autofireMask\": \"NONE\"\r\n}"
+      ],
+      "specials": {
+        "Special 1": "shifter1",
+        "Special 2": "ram1",
+        "Special 3": "overdrive1"
+      },
+      "systems": [
+        "{\r\n  \"position\": \"[0, 0, 0]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"autoloader2\"\r\n}",
+        "{\r\n  \"position\": \"[0, 0, 0]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"firecontrol2\"\r\n}",
+        "{\r\n  \"position\": \"[0, 0, 0]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"radar4\"\r\n}"
+      ],
+      "armor": {
+        "thickness": 4.0,
+        "armorMass": 200
+      },
+      "decals": [],
+      "isValid": true,
+      "thumbnailPath": "C:/Users/Chris/AppData/LocalLow/TMAGames/Waves of Steel/Thumbnails/6e5e51c4-6efd-45d0-b17f-cddfd6a741bf.png",
+      "lastUsedTime": 1670613114.9308445
+    },
+    "tier-5 destroyer": {
+      "name": "tier-5 destroyer",
+      "hull": "twindestroyer",
+      "flag": "090_Pirate",
+      "parts": [
+        "{\r\n  \"position\": \"[0, -1.440797, 2.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"10x16x2tapered\"\r\n}",
+        "{\r\n  \"position\": \"[0, -1.396097, 18]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"bluntarrow\"\r\n}",
+        "{\r\n  \"position\": \"[0, -1.343964, 37]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"battleaftbridge\"\r\n}",
+        "{\r\n  \"position\": \"[0, 0.6339031, 19.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"parent\": {\r\n    \"position\": \"[0, -1.396097, 18]\",\r\n    \"rotation\": \"[0, 0, 0]\",\r\n    \"name\": \"Placed bluntarrow at 0,18\"\r\n  },\r\n  \"name\": \"1936super\"\r\n}",
+        "{\r\n  \"position\": \"[0, 1.143413, -20]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"4x8x2box\"\r\n}",
+        "{\r\n  \"position\": \"[-4, 1.566926, -38]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"6in4bar\",\r\n  \"weaponGroups\": [\r\n    0\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -160.0,\r\n  \"maxY\": 160.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[4, 1.566926, -38]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"6in4bar\",\r\n  \"weaponGroups\": [\r\n    0\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -160.0,\r\n  \"maxY\": 160.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[-4, 3.373026, -30]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"6in4bar\",\r\n  \"weaponGroups\": [\r\n    0\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -160.0,\r\n  \"maxY\": 160.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[4, 3.373026, -30]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"6in4bar\",\r\n  \"weaponGroups\": [\r\n    0\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -160.0,\r\n  \"maxY\": 160.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[0, 0.5892025, 2.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"parent\": {\r\n    \"position\": \"[0, -1.440797, 2.5]\",\r\n    \"rotation\": \"[0, 0, 0]\",\r\n    \"name\": \"Placed 10x16x2tapered at 0,2.5\"\r\n  },\r\n  \"name\": \"sumnerbridge\"\r\n}",
+        "{\r\n  \"position\": \"[-3, 3.798005, 19]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"parent\": {\r\n    \"position\": \"[0, 0.6339031, 19.5]\",\r\n    \"rotation\": \"[0, 0, 0]\",\r\n    \"name\": \"Placed 1936super at 0,19.5\"\r\n  },\r\n  \"name\": \"shotgunaa\",\r\n  \"weaponGroups\": [\r\n    2\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -70.0,\r\n  \"maxY\": 70.0,\r\n  \"autofireMask\": \"SMALLSHIP, PLANE\"\r\n}",
+        "{\r\n  \"position\": \"[3, 3.798006, 19]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"parent\": {\r\n    \"position\": \"[0, 0.6339031, 19.5]\",\r\n    \"rotation\": \"[0, 0, 0]\",\r\n    \"name\": \"Placed 1936super at 0,19.5\"\r\n  },\r\n  \"name\": \"shotgunaa\",\r\n  \"weaponGroups\": [\r\n    2\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -70.0,\r\n  \"maxY\": 70.0,\r\n  \"autofireMask\": \"SMALLSHIP, PLANE\"\r\n}",
+        "{\r\n  \"position\": \"[-2, 1.309979, 43]\",\r\n  \"rotation\": \"[0, 180, 0]\",\r\n  \"parent\": {\r\n    \"position\": \"[0, -1.343964, 37]\",\r\n    \"rotation\": \"[0, 0, 0]\",\r\n    \"name\": \"Placed battleaftbridge at 0,37\"\r\n  },\r\n  \"name\": \"oerlikonx1\",\r\n  \"weaponGroups\": [\r\n    2\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -180.0,\r\n  \"maxY\": 180.0,\r\n  \"autofireMask\": \"SMALLSHIP, PLANE, MISSILE\"\r\n}",
+        "{\r\n  \"position\": \"[2, 1.309979, 43]\",\r\n  \"rotation\": \"[0, 180, 0]\",\r\n  \"parent\": {\r\n    \"position\": \"[0, -1.343964, 37]\",\r\n    \"rotation\": \"[0, 0, 0]\",\r\n    \"name\": \"Placed battleaftbridge at 0,37\"\r\n  },\r\n  \"name\": \"oerlikonx1\",\r\n  \"weaponGroups\": [\r\n    2\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -180.0,\r\n  \"maxY\": 180.0,\r\n  \"autofireMask\": \"SMALLSHIP, PLANE, MISSILE\"\r\n}",
+        "{\r\n  \"position\": \"[-1.5, 1.309979, 39]\",\r\n  \"rotation\": \"[0, 180, 0]\",\r\n  \"parent\": {\r\n    \"position\": \"[0, -1.343964, 37]\",\r\n    \"rotation\": \"[0, 0, 0]\",\r\n    \"name\": \"Placed battleaftbridge at 0,37\"\r\n  },\r\n  \"name\": \"oerlikonx1\",\r\n  \"weaponGroups\": [\r\n    2\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -180.0,\r\n  \"maxY\": 180.0,\r\n  \"autofireMask\": \"SMALLSHIP, PLANE, MISSILE\"\r\n}",
+        "{\r\n  \"position\": \"[1.5, 1.309979, 39]\",\r\n  \"rotation\": \"[0, 180, 0]\",\r\n  \"parent\": {\r\n    \"position\": \"[0, -1.343964, 37]\",\r\n    \"rotation\": \"[0, 0, 0]\",\r\n    \"name\": \"Placed battleaftbridge at 0,37\"\r\n  },\r\n  \"name\": \"oerlikonx1\",\r\n  \"weaponGroups\": [\r\n    2\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -180.0,\r\n  \"maxY\": 180.0,\r\n  \"autofireMask\": \"SMALLSHIP, PLANE, MISSILE\"\r\n}",
+        "{\r\n  \"position\": \"[-1, 1.309979, 35.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"parent\": {\r\n    \"position\": \"[0, -1.343964, 37]\",\r\n    \"rotation\": \"[0, 0, 0]\",\r\n    \"name\": \"Placed battleaftbridge at 0,37\"\r\n  },\r\n  \"name\": \"oerlikonx1\",\r\n  \"weaponGroups\": [\r\n    2\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -180.0,\r\n  \"maxY\": 180.0,\r\n  \"autofireMask\": \"SMALLSHIP, PLANE, MISSILE\"\r\n}",
+        "{\r\n  \"position\": \"[1, 1.309979, 35.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"parent\": {\r\n    \"position\": \"[0, -1.343964, 37]\",\r\n    \"rotation\": \"[0, 0, 0]\",\r\n    \"name\": \"Placed battleaftbridge at 0,37\"\r\n  },\r\n  \"name\": \"oerlikonx1\",\r\n  \"weaponGroups\": [\r\n    2\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -180.0,\r\n  \"maxY\": 180.0,\r\n  \"autofireMask\": \"SMALLSHIP, PLANE, MISSILE\"\r\n}",
+        "{\r\n  \"position\": \"[-6.5, -0.3866477, -9.5]\",\r\n  \"rotation\": \"[0, 90, 0]\",\r\n  \"name\": \"24torp5tube\",\r\n  \"weaponGroups\": [\r\n    1\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -60.0,\r\n  \"maxY\": 60.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[6.5, -0.3866477, -9.5]\",\r\n  \"rotation\": \"[0, 270, 0]\",\r\n  \"name\": \"24torp5tube\",\r\n  \"weaponGroups\": [\r\n    1\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -60.0,\r\n  \"maxY\": 60.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[-3, -8.849001, -7.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"turboelectrans\"\r\n}",
+        "{\r\n  \"position\": \"[3, -8.849001, -7.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"turboelectrans\"\r\n}",
+        "{\r\n  \"position\": \"[-4, -8.849001, 3.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"dieselturbine\"\r\n}",
+        "{\r\n  \"position\": \"[4, -8.849001, 3.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"dieselturbine\"\r\n}",
+        "{\r\n  \"position\": \"[0, -8.849001, 3.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"dieselturbine\"\r\n}",
+        "{\r\n  \"position\": \"[-4.5, -1.31207, 44]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"1936vent\"\r\n}",
+        "{\r\n  \"position\": \"[4.5, -1.31207, 44]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"1936vent\"\r\n}",
+        "{\r\n  \"position\": \"[-4.5, -1.336012, 36.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"1936vent\"\r\n}",
+        "{\r\n  \"position\": \"[4.5, -1.336012, 36.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"1936vent\"\r\n}",
+        "{\r\n  \"position\": \"[-7.5, -1.454813, -3.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"hussar\"\r\n}",
+        "{\r\n  \"position\": \"[7.5, -1.454814, -3.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"hussar\"\r\n}",
+        "{\r\n  \"position\": \"[-5.5, -1.360346, 29]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"foghorn\",\r\n  \"weaponGroups\": [\r\n    3\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -180.0,\r\n  \"maxY\": 180.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[5.5, -1.360346, 29]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"foghorn\",\r\n  \"weaponGroups\": [\r\n    3\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -180.0,\r\n  \"maxY\": 180.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[5, 5.12967, -19.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"6in4bar\",\r\n  \"weaponGroups\": [\r\n    0\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -160.0,\r\n  \"maxY\": 160.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[-5, 5.12967, -19.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"6in4bar\",\r\n  \"weaponGroups\": [\r\n    0\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -160.0,\r\n  \"maxY\": 160.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[-1, 3.173413, -22]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"parent\": {\r\n    \"position\": \"[0, 1.143413, -20]\",\r\n    \"rotation\": \"[0, 0, 0]\",\r\n    \"name\": \"Placed 4x8x2box at 0,-20\"\r\n  },\r\n  \"name\": \"oerlikonx1\",\r\n  \"weaponGroups\": [\r\n    2\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -180.0,\r\n  \"maxY\": 180.0,\r\n  \"autofireMask\": \"SMALLSHIP, PLANE, MISSILE\"\r\n}",
+        "{\r\n  \"position\": \"[1, 3.173413, -22]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"parent\": {\r\n    \"position\": \"[0, 1.143413, -20]\",\r\n    \"rotation\": \"[0, 0, 0]\",\r\n    \"name\": \"Placed 4x8x2box at 0,-20\"\r\n  },\r\n  \"name\": \"oerlikonx1\",\r\n  \"weaponGroups\": [\r\n    2\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -180.0,\r\n  \"maxY\": 180.0,\r\n  \"autofireMask\": \"SMALLSHIP, PLANE, MISSILE\"\r\n}",
+        "{\r\n  \"position\": \"[-1, 3.173413, -17.5]\",\r\n  \"rotation\": \"[0, 180, 0]\",\r\n  \"parent\": {\r\n    \"position\": \"[0, 1.143413, -20]\",\r\n    \"rotation\": \"[0, 0, 0]\",\r\n    \"name\": \"Placed 4x8x2box at 0,-20\"\r\n  },\r\n  \"name\": \"oerlikonx1\",\r\n  \"weaponGroups\": [\r\n    2\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -180.0,\r\n  \"maxY\": 180.0,\r\n  \"autofireMask\": \"SMALLSHIP, PLANE, MISSILE\"\r\n}",
+        "{\r\n  \"position\": \"[1, 3.173413, -17.5]\",\r\n  \"rotation\": \"[0, 180, 0]\",\r\n  \"parent\": {\r\n    \"position\": \"[0, 1.143413, -20]\",\r\n    \"rotation\": \"[0, 0, 0]\",\r\n    \"name\": \"Placed 4x8x2box at 0,-20\"\r\n  },\r\n  \"name\": \"oerlikonx1\",\r\n  \"weaponGroups\": [\r\n    2\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -180.0,\r\n  \"maxY\": 180.0,\r\n  \"autofireMask\": \"SMALLSHIP, PLANE, MISSILE\"\r\n}",
+        "{\r\n  \"position\": \"[0, -0.3866477, -10]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"hedgehog\",\r\n  \"weaponGroups\": [\r\n    4\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -120.0,\r\n  \"maxY\": 120.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[-7, -1.408494, 11.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"hedgehog\",\r\n  \"weaponGroups\": [\r\n    4\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -120.0,\r\n  \"maxY\": 120.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[7, -1.408494, 11.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"hedgehog\",\r\n  \"weaponGroups\": [\r\n    4\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -120.0,\r\n  \"maxY\": 120.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[-7, -1.358462, 32.5]\",\r\n  \"rotation\": \"[0, 180, 0]\",\r\n  \"name\": \"hedgehog\",\r\n  \"weaponGroups\": [\r\n    4\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -120.0,\r\n  \"maxY\": 120.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[7, -1.358463, 32.5]\",\r\n  \"rotation\": \"[0, 180, 0]\",\r\n  \"name\": \"hedgehog\",\r\n  \"weaponGroups\": [\r\n    4\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -120.0,\r\n  \"maxY\": 120.0,\r\n  \"autofireMask\": \"NONE\"\r\n}"
+      ],
+      "specials": {
+        "Special 1": "shifter1",
+        "Special 2": "drifter1",
+        "Special 3": "ram2"
+      },
+      "systems": [
+        "{\r\n  \"position\": \"[0, 0, 0]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"autoloader3\"\r\n}",
+        "{\r\n  \"position\": \"[0, 0, 0]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"firecontrol3\"\r\n}",
+        "{\r\n  \"position\": \"[0, 0, 0]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"bowjet1\"\r\n}",
+        "{\r\n  \"position\": \"[0, 0, 0]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"radar1\"\r\n}"
+      ],
+      "armor": {
+        "thickness": 6.0,
+        "armorMass": 360
+      },
+      "decals": [],
+      "isValid": true,
+      "thumbnailPath": "C:/Users/Chris/AppData/LocalLow/TMAGames/Waves of Steel/Thumbnails/8e88aea7-b9c3-4200-9e46-92539c4f4f06.png",
+      "lastUsedTime": 1670613350.2509928
+    },
+    "tier-2 cruiser": {
+      "name": "tier-2 cruiser",
+      "hull": "county",
+      "flag": "015_UK",
+      "parts": [
+        "{\r\n  \"position\": \"[0, 1.873643, 2]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"hawkinsarrow\"\r\n}",
+        "{\r\n  \"position\": \"[0, 1.873642, 25]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"8x16x4box\"\r\n}",
+        "{\r\n  \"position\": \"[0, 4.903645, -3.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"parent\": {\r\n    \"position\": \"[0, 1.873643, 2]\",\r\n    \"rotation\": \"[0, 0, 0]\",\r\n    \"name\": \"Placed hawkinsarrow at 0,2\"\r\n  },\r\n  \"name\": \"konigsbergbridge\"\r\n}",
+        "{\r\n  \"position\": \"[-3.5, -11.55844, -11.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"turboelectransca\"\r\n}",
+        "{\r\n  \"position\": \"[3.5, -11.55844, -11.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"turboelectransca\"\r\n}",
+        "{\r\n  \"position\": \"[0, -11.55844, 4.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"turboelectransca\"\r\n}",
+        "{\r\n  \"position\": \"[-2.5, -11.55844, 17.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"oilturbineca\"\r\n}",
+        "{\r\n  \"position\": \"[2.5, -11.55844, 17.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"oilturbineca\"\r\n}",
+        "{\r\n  \"position\": \"[-2.5, -11.55844, 27.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"oilturbineca\"\r\n}",
+        "{\r\n  \"position\": \"[2.5, -11.55844, 27.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"oilturbineca\"\r\n}",
+        "{\r\n  \"position\": \"[0, -11.55844, 37.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"oilturbineca\"\r\n}",
+        "{\r\n  \"position\": \"[0, 4.903644, 9]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"parent\": {\r\n    \"position\": \"[0, 1.873643, 2]\",\r\n    \"rotation\": \"[0, 0, 0]\",\r\n    \"name\": \"Placed hawkinsarrow at 0,2\"\r\n  },\r\n  \"name\": \"konigsbergvent\"\r\n}",
+        "{\r\n  \"position\": \"[0, 1.873643, 16.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"konigsbergvent\"\r\n}",
+        "{\r\n  \"position\": \"[0, 5.903643, 24]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"parent\": {\r\n    \"position\": \"[0, 1.873642, 25]\",\r\n    \"rotation\": \"[0, 0, 0]\",\r\n    \"name\": \"Placed 8x16x4box at 0,25\"\r\n  },\r\n  \"name\": \"konigsbergvent\"\r\n}",
+        "{\r\n  \"position\": \"[0, 1.873643, 31.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"konigsbergvent\"\r\n}",
+        "{\r\n  \"position\": \"[0, 1.873643, 38.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"konigsbergvent\"\r\n}",
+        "{\r\n  \"position\": \"[0, 2.432061, -68]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"8in3bar\",\r\n  \"weaponGroups\": [\r\n    0\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -150.0,\r\n  \"maxY\": 150.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[0, 5.012317, -57]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"8in3bar\",\r\n  \"weaponGroups\": [\r\n    0\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -150.0,\r\n  \"maxY\": 150.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[0, 7.499489, -45]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"8in3bar\",\r\n  \"weaponGroups\": [\r\n    0\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -150.0,\r\n  \"maxY\": 150.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[0, 1.873643, -31.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"8in3bar\",\r\n  \"weaponGroups\": [\r\n    0\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -150.0,\r\n  \"maxY\": 150.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[0, 1.873643, 79.5]\",\r\n  \"rotation\": \"[0, 180, 0]\",\r\n  \"name\": \"8in3bar\",\r\n  \"weaponGroups\": [\r\n    0\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -150.0,\r\n  \"maxY\": 150.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[-6, 1.873643, -18]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"100mmgatling\",\r\n  \"weaponGroups\": [\r\n    0\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -150.0,\r\n  \"maxY\": 150.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[6, 1.873643, -18]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"100mmgatling\",\r\n  \"weaponGroups\": [\r\n    0\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -150.0,\r\n  \"maxY\": 150.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[-6, 1.873643, 35]\",\r\n  \"rotation\": \"[0, 180, 0]\",\r\n  \"name\": \"100mmgatling\",\r\n  \"weaponGroups\": [\r\n    0\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -150.0,\r\n  \"maxY\": 110.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[6, 1.873642, 35]\",\r\n  \"rotation\": \"[0, 180, 0]\",\r\n  \"name\": \"100mmgatling\",\r\n  \"weaponGroups\": [\r\n    0\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -110.0,\r\n  \"maxY\": 150.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[0, 1.873643, 56]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"yorkaftbridge\"\r\n}",
+        "{\r\n  \"position\": \"[0, 1.873643, -18.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"hedgehog\",\r\n  \"weaponGroups\": [\r\n    1\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -120.0,\r\n  \"maxY\": 120.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[0, 1.873643, -22]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"hedgehog\",\r\n  \"weaponGroups\": [\r\n    1\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -120.0,\r\n  \"maxY\": 120.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[-4.5, 1.873643, 46]\",\r\n  \"rotation\": \"[0, 180, 0]\",\r\n  \"name\": \"hedgehog\",\r\n  \"weaponGroups\": [\r\n    1\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -120.0,\r\n  \"maxY\": 120.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[4.5, 1.873643, 46]\",\r\n  \"rotation\": \"[0, 180, 0]\",\r\n  \"name\": \"hedgehog\",\r\n  \"weaponGroups\": [\r\n    1\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -120.0,\r\n  \"maxY\": 120.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[-6, 1.873643, 21]\",\r\n  \"rotation\": \"[0, 1.001791E-05, 0]\",\r\n  \"name\": \"hedgehog\",\r\n  \"weaponGroups\": [\r\n    1\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -120.0,\r\n  \"maxY\": 120.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[6, 1.873643, 21]\",\r\n  \"rotation\": \"[0, -1.001791E-05, 0]\",\r\n  \"name\": \"hedgehog\",\r\n  \"weaponGroups\": [\r\n    1\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -120.0,\r\n  \"maxY\": 120.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[-4.5, 4.903645, -4.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"parent\": {\r\n    \"position\": \"[0, 1.873643, 2]\",\r\n    \"rotation\": \"[0, 0, 0]\",\r\n    \"name\": \"Placed hawkinsarrow at 0,2\"\r\n  },\r\n  \"name\": \"oerlikonx2\",\r\n  \"weaponGroups\": [\r\n    2\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -180.0,\r\n  \"maxY\": 180.0,\r\n  \"autofireMask\": \"SMALLSHIP, PLANE, MISSILE\"\r\n}",
+        "{\r\n  \"position\": \"[4.5, 4.903645, -4.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"parent\": {\r\n    \"position\": \"[0, 1.873643, 2]\",\r\n    \"rotation\": \"[0, 0, 0]\",\r\n    \"name\": \"Placed hawkinsarrow at 0,2\"\r\n  },\r\n  \"name\": \"oerlikonx2\",\r\n  \"weaponGroups\": [\r\n    2\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -180.0,\r\n  \"maxY\": 180.0,\r\n  \"autofireMask\": \"SMALLSHIP, PLANE, MISSILE\"\r\n}",
+        "{\r\n  \"position\": \"[-5, 4.903644, 6]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"parent\": {\r\n    \"position\": \"[0, 1.873643, 2]\",\r\n    \"rotation\": \"[0, 0, 0]\",\r\n    \"name\": \"Placed hawkinsarrow at 0,2\"\r\n  },\r\n  \"name\": \"oerlikonx2\",\r\n  \"weaponGroups\": [\r\n    2\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -180.0,\r\n  \"maxY\": 180.0,\r\n  \"autofireMask\": \"SMALLSHIP, PLANE, MISSILE\"\r\n}",
+        "{\r\n  \"position\": \"[5, 4.903644, 6]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"parent\": {\r\n    \"position\": \"[0, 1.873643, 2]\",\r\n    \"rotation\": \"[0, 0, 0]\",\r\n    \"name\": \"Placed hawkinsarrow at 0,2\"\r\n  },\r\n  \"name\": \"oerlikonx2\",\r\n  \"weaponGroups\": [\r\n    2\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -180.0,\r\n  \"maxY\": 180.0,\r\n  \"autofireMask\": \"SMALLSHIP, PLANE, MISSILE\"\r\n}",
+        "{\r\n  \"position\": \"[-5, 4.903644, 10]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"parent\": {\r\n    \"position\": \"[0, 1.873643, 2]\",\r\n    \"rotation\": \"[0, 0, 0]\",\r\n    \"name\": \"Placed hawkinsarrow at 0,2\"\r\n  },\r\n  \"name\": \"oerlikonx2\",\r\n  \"weaponGroups\": [\r\n    2\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -180.0,\r\n  \"maxY\": 180.0,\r\n  \"autofireMask\": \"SMALLSHIP, PLANE, MISSILE\"\r\n}",
+        "{\r\n  \"position\": \"[5, 4.903644, 10]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"parent\": {\r\n    \"position\": \"[0, 1.873643, 2]\",\r\n    \"rotation\": \"[0, 0, 0]\",\r\n    \"name\": \"Placed hawkinsarrow at 0,2\"\r\n  },\r\n  \"name\": \"oerlikonx2\",\r\n  \"weaponGroups\": [\r\n    2\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -180.0,\r\n  \"maxY\": 180.0,\r\n  \"autofireMask\": \"SMALLSHIP, PLANE, MISSILE\"\r\n}",
+        "{\r\n  \"position\": \"[-3, 5.903643, 28]\",\r\n  \"rotation\": \"[0, 180, 0]\",\r\n  \"parent\": {\r\n    \"position\": \"[0, 1.873642, 25]\",\r\n    \"rotation\": \"[0, 0, 0]\",\r\n    \"name\": \"Placed 8x16x4box at 0,25\"\r\n  },\r\n  \"name\": \"oerlikonx2\",\r\n  \"weaponGroups\": [\r\n    2\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -180.0,\r\n  \"maxY\": 180.0,\r\n  \"autofireMask\": \"SMALLSHIP, PLANE, MISSILE\"\r\n}",
+        "{\r\n  \"position\": \"[3, 5.903643, 28]\",\r\n  \"rotation\": \"[0, 180, 0]\",\r\n  \"parent\": {\r\n    \"position\": \"[0, 1.873642, 25]\",\r\n    \"rotation\": \"[0, 0, 0]\",\r\n    \"name\": \"Placed 8x16x4box at 0,25\"\r\n  },\r\n  \"name\": \"oerlikonx2\",\r\n  \"weaponGroups\": [\r\n    2\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -180.0,\r\n  \"maxY\": 180.0,\r\n  \"autofireMask\": \"SMALLSHIP, PLANE, MISSILE\"\r\n}",
+        "{\r\n  \"position\": \"[-7, 1.873642, -36.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"boforsx2\",\r\n  \"weaponGroups\": [\r\n    2\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -180.0,\r\n  \"maxY\": 180.0,\r\n  \"autofireMask\": \"SMALLSHIP, PLANE, MISSILE\"\r\n}",
+        "{\r\n  \"position\": \"[7, 1.873642, -36.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"boforsx2\",\r\n  \"weaponGroups\": [\r\n    2\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -180.0,\r\n  \"maxY\": 180.0,\r\n  \"autofireMask\": \"SMALLSHIP, PLANE, MISSILE\"\r\n}"
+      ],
+      "specials": {
+        "Special 1": "shifter2",
+        "Special 2": "emp1",
+        "Special 3": "ram2"
+      },
+      "systems": [
+        "{\r\n  \"position\": \"[0, 0, 0]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"autoloader4\"\r\n}",
+        "{\r\n  \"position\": \"[0, 0, 0]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"firecontrol4\"\r\n}",
+        "{\r\n  \"position\": \"[0, 0, 0]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"radar6\"\r\n}"
+      ],
+      "armor": {
+        "thickness": 4.0,
+        "armorMass": 420
+      },
+      "decals": [],
+      "isValid": true,
+      "thumbnailPath": "C:/Users/Chris/AppData/LocalLow/TMAGames/Waves of Steel/Thumbnails/56e3028c-904e-40dd-9f59-759903bea10b.png",
+      "lastUsedTime": 1670611731.264281
+    },
+    "tier-4 cruiser": {
+      "name": "tier-4 cruiser",
+      "hull": "hipper",
+      "flag": "020_Germany",
+      "parts": [
+        "{\r\n  \"position\": \"[0, 4.911808, 53]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"hipperaftbridge\"\r\n}",
+        "{\r\n  \"position\": \"[0, 4.911805, 17]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"townsuper\"\r\n}",
+        "{\r\n  \"position\": \"[0, 4.911798, -14]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"hipperbridge\"\r\n}",
+        "{\r\n  \"position\": \"[-7, 4.911808, 50]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"tonevent\"\r\n}",
+        "{\r\n  \"position\": \"[7, 4.911808, 50]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"tonevent\"\r\n}",
+        "{\r\n  \"position\": \"[-4, -8.063716, -8.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"hydrojetca\"\r\n}",
+        "{\r\n  \"position\": \"[4, -8.063716, -8.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"hydrojetca\"\r\n}",
+        "{\r\n  \"position\": \"[-7.5, -8.063716, 7]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"dieselturbineca\"\r\n}",
+        "{\r\n  \"position\": \"[7.5, -8.063716, 7]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"dieselturbineca\"\r\n}",
+        "{\r\n  \"position\": \"[-2.5, -8.063716, 8]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"dieselturbineca\"\r\n}",
+        "{\r\n  \"position\": \"[2.5, -8.063716, 8]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"dieselturbineca\"\r\n}",
+        "{\r\n  \"position\": \"[0, 5.461309, -82.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"12xlaser\",\r\n  \"weaponGroups\": [\r\n    0\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -150.0,\r\n  \"maxY\": 150.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[0, 9.095201, -69.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"12xlaser\",\r\n  \"weaponGroups\": [\r\n    0\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -150.0,\r\n  \"maxY\": 150.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[0, 4.911792, -47]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"12xlaser\",\r\n  \"weaponGroups\": [\r\n    0\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -150.0,\r\n  \"maxY\": 150.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[0, 8.911795, -32.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"12xlaser\",\r\n  \"weaponGroups\": [\r\n    0\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -140.0,\r\n  \"maxY\": 140.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[-6, 4.936849, -60]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"squid\",\r\n  \"weaponGroups\": [\r\n    1\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -120.0,\r\n  \"maxY\": 120.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[6, 4.936849, -60]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"squid\",\r\n  \"weaponGroups\": [\r\n    1\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -120.0,\r\n  \"maxY\": 120.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[0, 8.061779, 33]\",\r\n  \"rotation\": \"[0, 180, 0]\",\r\n  \"parent\": {\r\n    \"position\": \"[0, 4.911805, 17]\",\r\n    \"rotation\": \"[0, 0, 0]\",\r\n    \"name\": \"Placed townsuper at 0,17\"\r\n  },\r\n  \"name\": \"squid\",\r\n  \"weaponGroups\": [\r\n    1\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -120.0,\r\n  \"maxY\": 120.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[-7, 8.057025, 5.5]\",\r\n  \"rotation\": \"[0, 180, 0]\",\r\n  \"parent\": {\r\n    \"position\": \"[0, 4.911805, 17]\",\r\n    \"rotation\": \"[0, 0, 0]\",\r\n    \"name\": \"Placed townsuper at 0,17\"\r\n  },\r\n  \"name\": \"squid\",\r\n  \"weaponGroups\": [\r\n    1\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -120.0,\r\n  \"maxY\": 120.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[7, 8.057025, 5.5]\",\r\n  \"rotation\": \"[0, 180, 0]\",\r\n  \"parent\": {\r\n    \"position\": \"[0, 4.911805, 17]\",\r\n    \"rotation\": \"[0, 0, 0]\",\r\n    \"name\": \"Placed townsuper at 0,17\"\r\n  },\r\n  \"name\": \"squid\",\r\n  \"weaponGroups\": [\r\n    1\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -120.0,\r\n  \"maxY\": 120.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[-3.5, 11.9661, -13]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"parent\": {\r\n    \"position\": \"[0, 4.911798, -14]\",\r\n    \"rotation\": \"[0, 0, 0]\",\r\n    \"name\": \"Placed hipperbridge at 0,-14\"\r\n  },\r\n  \"name\": \"boforsx2\",\r\n  \"weaponGroups\": [\r\n    2\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -180.0,\r\n  \"maxY\": 180.0,\r\n  \"autofireMask\": \"SMALLSHIP, PLANE, MISSILE\"\r\n}",
+        "{\r\n  \"position\": \"[3.5, 11.9661, -13]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"parent\": {\r\n    \"position\": \"[0, 4.911798, -14]\",\r\n    \"rotation\": \"[0, 0, 0]\",\r\n    \"name\": \"Placed hipperbridge at 0,-14\"\r\n  },\r\n  \"name\": \"boforsx2\",\r\n  \"weaponGroups\": [\r\n    2\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -180.0,\r\n  \"maxY\": 180.0,\r\n  \"autofireMask\": \"SMALLSHIP, PLANE, MISSILE\"\r\n}",
+        "{\r\n  \"position\": \"[-7.5, 8.059995, 28.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"parent\": {\r\n    \"position\": \"[0, 4.911805, 17]\",\r\n    \"rotation\": \"[0, 0, 0]\",\r\n    \"name\": \"Placed townsuper at 0,17\"\r\n  },\r\n  \"name\": \"boforsx2\",\r\n  \"weaponGroups\": [\r\n    2\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -180.0,\r\n  \"maxY\": 180.0,\r\n  \"autofireMask\": \"SMALLSHIP, PLANE, MISSILE\"\r\n}",
+        "{\r\n  \"position\": \"[7.5, 8.060903, 28.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"parent\": {\r\n    \"position\": \"[0, 4.911805, 17]\",\r\n    \"rotation\": \"[0, 0, 0]\",\r\n    \"name\": \"Placed townsuper at 0,17\"\r\n  },\r\n  \"name\": \"boforsx2\",\r\n  \"weaponGroups\": [\r\n    2\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -180.0,\r\n  \"maxY\": 180.0,\r\n  \"autofireMask\": \"SMALLSHIP, PLANE, MISSILE\"\r\n}",
+        "{\r\n  \"position\": \"[-6.5, 4.911811, 68]\",\r\n  \"rotation\": \"[0, 180, 0]\",\r\n  \"name\": \"boforsx2\",\r\n  \"weaponGroups\": [\r\n    2\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -180.0,\r\n  \"maxY\": 180.0,\r\n  \"autofireMask\": \"SMALLSHIP, PLANE, MISSILE\"\r\n}",
+        "{\r\n  \"position\": \"[6.5, 4.911811, 68]\",\r\n  \"rotation\": \"[0, 180, 0]\",\r\n  \"name\": \"boforsx2\",\r\n  \"weaponGroups\": [\r\n    2\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -180.0,\r\n  \"maxY\": 180.0,\r\n  \"autofireMask\": \"SMALLSHIP, PLANE, MISSILE\"\r\n}",
+        "{\r\n  \"position\": \"[-5, 9.705609, 61.5]\",\r\n  \"rotation\": \"[0, 180, 0]\",\r\n  \"parent\": {\r\n    \"position\": \"[0, 4.911808, 53]\",\r\n    \"rotation\": \"[0, 0, 0]\",\r\n    \"name\": \"Placed hipperaftbridge at 0,53\"\r\n  },\r\n  \"name\": \"boforsx2\",\r\n  \"weaponGroups\": [\r\n    2\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -180.0,\r\n  \"maxY\": 180.0,\r\n  \"autofireMask\": \"SMALLSHIP, PLANE, MISSILE\"\r\n}",
+        "{\r\n  \"position\": \"[5, 9.705609, 61.5]\",\r\n  \"rotation\": \"[0, 180, 0]\",\r\n  \"parent\": {\r\n    \"position\": \"[0, 4.911808, 53]\",\r\n    \"rotation\": \"[0, 0, 0]\",\r\n    \"name\": \"Placed hipperaftbridge at 0,53\"\r\n  },\r\n  \"name\": \"boforsx2\",\r\n  \"weaponGroups\": [\r\n    2\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -180.0,\r\n  \"maxY\": 180.0,\r\n  \"autofireMask\": \"SMALLSHIP, PLANE, MISSILE\"\r\n}"
+      ],
+      "specials": {
+        "Special 1": "shifter2",
+        "Special 2": "decoy",
+        "Special 3": "ram3"
+      },
+      "systems": [
+        "{\r\n  \"position\": \"[0, 0, 0]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"bowjet2\"\r\n}",
+        "{\r\n  \"position\": \"[0, 0, 0]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"throttle2\"\r\n}",
+        "{\r\n  \"position\": \"[0, 0, 0]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"radar3\"\r\n}",
+        "{\r\n  \"position\": \"[0, 0, 0]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"sonar3\"\r\n}",
+        "{\r\n  \"position\": \"[0, 0, 0]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"scavenger2\"\r\n}"
+      ],
+      "armor": {
+        "thickness": 2.0,
+        "armorMass": 250
+      },
+      "decals": [],
+      "isValid": true,
+      "thumbnailPath": "C:/Users/Chris/AppData/LocalLow/TMAGames/Waves of Steel/Thumbnails/d655780b-9421-4119-a35b-481f0af856a3.png",
+      "lastUsedTime": 1670612053.6059163
+    },
+    "tier-1 battleship": {
+      "name": "tier-1 battleship",
+      "hull": "kongo",
+      "flag": "025_Japan",
+      "parts": [
+        "{\r\n  \"position\": \"[0, 3.620928, 0]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"konigsuper1\"\r\n}",
+        "{\r\n  \"position\": \"[0, 6.504786, -3.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"parent\": {\r\n    \"position\": \"[0, 3.620928, 0]\",\r\n    \"rotation\": \"[0, 0, 0]\",\r\n    \"name\": \"Placed konigsuper1 at 0,0\"\r\n  },\r\n  \"name\": \"scharnhorstsuper\"\r\n}",
+        "{\r\n  \"position\": \"[0, 6.504783, -17.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"parent\": {\r\n    \"position\": \"[0, 3.620928, 0]\",\r\n    \"rotation\": \"[0, 0, 0]\",\r\n    \"name\": \"Placed konigsuper1 at 0,0\"\r\n  },\r\n  \"name\": \"isebridge\"\r\n}",
+        "{\r\n  \"position\": \"[0, 6.504785, 29.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"parent\": {\r\n    \"position\": \"[0, 3.620928, 0]\",\r\n    \"rotation\": \"[0, 0, 0]\",\r\n    \"name\": \"Placed konigsuper1 at 0,0\"\r\n  },\r\n  \"name\": \"coloradoaftbridge\"\r\n}",
+        "{\r\n  \"position\": \"[0, 3.620928, -74.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"14in3bar\",\r\n  \"weaponGroups\": [\r\n    0\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -150.0,\r\n  \"maxY\": 150.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[6.5, 3.620928, -57]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"14in3bar\",\r\n  \"weaponGroups\": [\r\n    0\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -150.0,\r\n  \"maxY\": 150.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[-6.5, 3.620928, -57]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"14in3bar\",\r\n  \"weaponGroups\": [\r\n    0\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -150.0,\r\n  \"maxY\": 150.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[-7.5, 6.370928, -46]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"14in3bar\",\r\n  \"weaponGroups\": [\r\n    0\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -150.0,\r\n  \"maxY\": 150.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[7.5, 6.370928, -46]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"14in3bar\",\r\n  \"weaponGroups\": [\r\n    0\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -150.0,\r\n  \"maxY\": 150.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[0, 3.620928, 81.5]\",\r\n  \"rotation\": \"[0, 180, 0]\",\r\n  \"name\": \"14in3bar\",\r\n  \"weaponGroups\": [\r\n    0\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -150.0,\r\n  \"maxY\": 150.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[6, 6.370928, 65]\",\r\n  \"rotation\": \"[0, 180, 0]\",\r\n  \"name\": \"14in3bar\",\r\n  \"weaponGroups\": [\r\n    0\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -150.0,\r\n  \"maxY\": 150.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[-6, 6.370928, 65]\",\r\n  \"rotation\": \"[0, 180, 0]\",\r\n  \"name\": \"14in3bar\",\r\n  \"weaponGroups\": [\r\n    0\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -150.0,\r\n  \"maxY\": 150.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[-4, -9.25835, 4.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"hydrojetbb\"\r\n}",
+        "{\r\n  \"position\": \"[4, -9.25835, 4.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"hydrojetbb\"\r\n}",
+        "{\r\n  \"position\": \"[-8, -9.25835, 24]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"gasturbinebb\"\r\n}",
+        "{\r\n  \"position\": \"[8, -9.25835, 24]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"gasturbinebb\"\r\n}",
+        "{\r\n  \"position\": \"[0, -9.25835, 24]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"gasturbinebb\"\r\n}",
+        "{\r\n  \"position\": \"[0, -9.25835, -38.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"gasturbinebb\"\r\n}",
+        "{\r\n  \"position\": \"[0, -9.25835, -19.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"hydrojetbb\"\r\n}",
+        "{\r\n  \"position\": \"[4, 6.504788, 16]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"parent\": {\r\n    \"position\": \"[0, 3.620928, 0]\",\r\n    \"rotation\": \"[0, 0, 0]\",\r\n    \"name\": \"Placed konigsuper1 at 0,0\"\r\n  },\r\n  \"name\": \"kongovent\"\r\n}",
+        "{\r\n  \"position\": \"[-4, 6.504788, 16]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"parent\": {\r\n    \"position\": \"[0, 3.620928, 0]\",\r\n    \"rotation\": \"[0, 0, 0]\",\r\n    \"name\": \"Placed konigsuper1 at 0,0\"\r\n  },\r\n  \"name\": \"kongovent\"\r\n}",
+        "{\r\n  \"position\": \"[3.5, 6.504788, 22.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"parent\": {\r\n    \"position\": \"[0, 3.620928, 0]\",\r\n    \"rotation\": \"[0, 0, 0]\",\r\n    \"name\": \"Placed konigsuper1 at 0,0\"\r\n  },\r\n  \"name\": \"kongovent\"\r\n}",
+        "{\r\n  \"position\": \"[-3.5, 6.504788, 22.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"parent\": {\r\n    \"position\": \"[0, 3.620928, 0]\",\r\n    \"rotation\": \"[0, 0, 0]\",\r\n    \"name\": \"Placed konigsuper1 at 0,0\"\r\n  },\r\n  \"name\": \"kongovent\"\r\n}",
+        "{\r\n  \"position\": \"[0, 3.620928, 51.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"asroc\",\r\n  \"weaponGroups\": [\r\n    1\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -170.0,\r\n  \"maxY\": 170.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[0, 3.620928, 45.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"asroc\",\r\n  \"weaponGroups\": [\r\n    1\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -170.0,\r\n  \"maxY\": 170.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[0, 3.620928, -37]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"asroc\",\r\n  \"weaponGroups\": [\r\n    1\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -170.0,\r\n  \"maxY\": 170.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[0, 3.620928, -66]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"asroc\",\r\n  \"weaponGroups\": [\r\n    1\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -170.0,\r\n  \"maxY\": 170.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[-3.5, 16.26282, 2.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"parent\": {\r\n    \"position\": \"[0, 6.504786, -3.5]\",\r\n    \"rotation\": \"[0, 0, 0]\",\r\n    \"name\": \"Placed scharnhorstsuper at 0,-3.5\"\r\n  },\r\n  \"name\": \"pompom_8gat\",\r\n  \"weaponGroups\": [\r\n    2\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -180.0,\r\n  \"maxY\": 180.0,\r\n  \"autofireMask\": \"SMALLSHIP, PLANE, MISSILE\"\r\n}",
+        "{\r\n  \"position\": \"[3.5, 16.26282, 2.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"parent\": {\r\n    \"position\": \"[0, 6.504786, -3.5]\",\r\n    \"rotation\": \"[0, 0, 0]\",\r\n    \"name\": \"Placed scharnhorstsuper at 0,-3.5\"\r\n  },\r\n  \"name\": \"pompom_8gat\",\r\n  \"weaponGroups\": [\r\n    2\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -180.0,\r\n  \"maxY\": 180.0,\r\n  \"autofireMask\": \"SMALLSHIP, PLANE, MISSILE\"\r\n}",
+        "{\r\n  \"position\": \"[0, 15.33478, -8.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"parent\": {\r\n    \"position\": \"[0, 6.504786, -3.5]\",\r\n    \"rotation\": \"[0, 0, 0]\",\r\n    \"name\": \"Placed scharnhorstsuper at 0,-3.5\"\r\n  },\r\n  \"name\": \"pompom_8gat\",\r\n  \"weaponGroups\": [\r\n    2\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -180.0,\r\n  \"maxY\": 180.0,\r\n  \"autofireMask\": \"SMALLSHIP, PLANE, MISSILE\"\r\n}",
+        "{\r\n  \"position\": \"[-8.5, 6.504783, -23.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"parent\": {\r\n    \"position\": \"[0, 3.620928, 0]\",\r\n    \"rotation\": \"[0, 0, 0]\",\r\n    \"name\": \"Placed konigsuper1 at 0,0\"\r\n  },\r\n  \"name\": \"boforsx4\",\r\n  \"weaponGroups\": [\r\n    2\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -180.0,\r\n  \"maxY\": 180.0,\r\n  \"autofireMask\": \"SMALLSHIP, PLANE, MISSILE\"\r\n}",
+        "{\r\n  \"position\": \"[8.5, 6.504782, -23.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"parent\": {\r\n    \"position\": \"[0, 3.620928, 0]\",\r\n    \"rotation\": \"[0, 0, 0]\",\r\n    \"name\": \"Placed konigsuper1 at 0,0\"\r\n  },\r\n  \"name\": \"boforsx4\",\r\n  \"weaponGroups\": [\r\n    2\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -180.0,\r\n  \"maxY\": 180.0,\r\n  \"autofireMask\": \"SMALLSHIP, PLANE, MISSILE\"\r\n}",
+        "{\r\n  \"position\": \"[-9.5, 6.504789, 22.5]\",\r\n  \"rotation\": \"[0, 180, 0]\",\r\n  \"parent\": {\r\n    \"position\": \"[0, 3.620928, 0]\",\r\n    \"rotation\": \"[0, 0, 0]\",\r\n    \"name\": \"Placed konigsuper1 at 0,0\"\r\n  },\r\n  \"name\": \"boforsx4\",\r\n  \"weaponGroups\": [\r\n    2\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -180.0,\r\n  \"maxY\": 180.0,\r\n  \"autofireMask\": \"SMALLSHIP, PLANE, MISSILE\"\r\n}",
+        "{\r\n  \"position\": \"[9.5, 6.504789, 22.5]\",\r\n  \"rotation\": \"[0, 180, 0]\",\r\n  \"parent\": {\r\n    \"position\": \"[0, 3.620928, 0]\",\r\n    \"rotation\": \"[0, 0, 0]\",\r\n    \"name\": \"Placed konigsuper1 at 0,0\"\r\n  },\r\n  \"name\": \"boforsx4\",\r\n  \"weaponGroups\": [\r\n    2\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -180.0,\r\n  \"maxY\": 180.0,\r\n  \"autofireMask\": \"SMALLSHIP, PLANE, MISSILE\"\r\n}",
+        "{\r\n  \"position\": \"[-3, 6.50478, 36]\",\r\n  \"rotation\": \"[0, 180, 0]\",\r\n  \"parent\": {\r\n    \"position\": \"[0, 3.620928, 0]\",\r\n    \"rotation\": \"[0, 0, 0]\",\r\n    \"name\": \"Placed konigsuper1 at 0,0\"\r\n  },\r\n  \"name\": \"boforsx4\",\r\n  \"weaponGroups\": [\r\n    2\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -180.0,\r\n  \"maxY\": 180.0,\r\n  \"autofireMask\": \"SMALLSHIP, PLANE, MISSILE\"\r\n}",
+        "{\r\n  \"position\": \"[3, 6.50478, 36]\",\r\n  \"rotation\": \"[0, 180, 0]\",\r\n  \"parent\": {\r\n    \"position\": \"[0, 3.620928, 0]\",\r\n    \"rotation\": \"[0, 0, 0]\",\r\n    \"name\": \"Placed konigsuper1 at 0,0\"\r\n  },\r\n  \"name\": \"boforsx4\",\r\n  \"weaponGroups\": [\r\n    2\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -180.0,\r\n  \"maxY\": 180.0,\r\n  \"autofireMask\": \"SMALLSHIP, PLANE, MISSILE\"\r\n}"
+      ],
+      "specials": {
+        "Special 1": "shifter2",
+        "Special 2": "timebubble1",
+        "Special 3": "ram4"
+      },
+      "systems": [
+        "{\r\n  \"position\": \"[0, 0, 0]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"autoloader6\"\r\n}",
+        "{\r\n  \"position\": \"[0, 0, 0]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"firecontrol6\"\r\n}",
+        "{\r\n  \"position\": \"[0, 0, 0]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"pdcommand6\"\r\n}",
+        "{\r\n  \"position\": \"[0, 0, 0]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"radar8\"\r\n}",
+        "{\r\n  \"position\": \"[0, 0, 0]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"bowjet2\"\r\n}",
+        "{\r\n  \"position\": \"[0, 0, 0]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"throttle3\"\r\n}",
+        "{\r\n  \"position\": \"[0, 0, 0]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"scavenger4\"\r\n}"
+      ],
+      "armor": {
+        "thickness": 4.0,
+        "armorMass": 640
+      },
+      "decals": [],
+      "isValid": true,
+      "thumbnailPath": "C:/Users/Chris/AppData/LocalLow/TMAGames/Waves of Steel/Thumbnails/8ad10e6f-87d3-48e4-9ded-daa7fcf315b9.png",
+      "lastUsedTime": 1670612340.8844011
+    },
+    "tier-5 battleship": {
+      "name": "tier-5 battleship",
+      "hull": "omega",
+      "flag": "Transgender_Pride",
+      "parts": [
+        "{\r\n  \"position\": \"[0, 10.05858, -9]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"mtechbbbridge\"\r\n}",
+        "{\r\n  \"position\": \"[0, 10.05858, 22.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"nelsonaftbridge\"\r\n}",
+        "{\r\n  \"position\": \"[-19, 7.500357, 77]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"bismarcksuper\"\r\n}",
+        "{\r\n  \"position\": \"[19, 7.500356, 77]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"bismarcksuper\"\r\n}",
+        "{\r\n  \"position\": \"[19.5, 10.84421, 58.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"parent\": {\r\n    \"position\": \"[19, 7.500356, 77]\",\r\n    \"rotation\": \"[0, 0, 0]\",\r\n    \"name\": \"Placed bismarcksuper at 19,77\"\r\n  },\r\n  \"name\": \"scharnhorstsuper\"\r\n}",
+        "{\r\n  \"position\": \"[-19.5, 10.84422, 58.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"parent\": {\r\n    \"position\": \"[-19, 7.500357, 77]\",\r\n    \"rotation\": \"[0, 0, 0]\",\r\n    \"name\": \"Placed bismarcksuper at -19,77\"\r\n  },\r\n  \"name\": \"scharnhorstsuper\"\r\n}",
+        "{\r\n  \"position\": \"[0, 7.500356, -52.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"musclesbb\"\r\n}",
+        "{\r\n  \"position\": \"[-19, 10.84421, 112]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"parent\": {\r\n    \"position\": \"[-19, 7.500357, 77]\",\r\n    \"rotation\": \"[0, 0, 0]\",\r\n    \"name\": \"Placed bismarcksuper at -19,77\"\r\n  },\r\n  \"name\": \"sashimono\"\r\n}",
+        "{\r\n  \"position\": \"[19, 10.84421, 112]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"parent\": {\r\n    \"position\": \"[19, 7.500356, 77]\",\r\n    \"rotation\": \"[0, 0, 0]\",\r\n    \"name\": \"Placed bismarcksuper at 19,77\"\r\n  },\r\n  \"name\": \"sashimono\"\r\n}",
+        "{\r\n  \"position\": \"[-4, -7.082079, -24]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"supercavitatingbb\"\r\n}",
+        "{\r\n  \"position\": \"[4, -7.082079, -24]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"supercavitatingbb\"\r\n}",
+        "{\r\n  \"position\": \"[-4, -7.082079, -51]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"supercavitatingbb\"\r\n}",
+        "{\r\n  \"position\": \"[4, -7.082079, -51]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"supercavitatingbb\"\r\n}",
+        "{\r\n  \"position\": \"[-4, -7.082079, -3.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"nuketurbinebb\"\r\n}",
+        "{\r\n  \"position\": \"[4, -7.082079, -3.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"nuketurbinebb\"\r\n}",
+        "{\r\n  \"position\": \"[-3.5, -7.082079, 11]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"nuketurbinebb\"\r\n}",
+        "{\r\n  \"position\": \"[3.5, -7.082079, 11]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"nuketurbinebb\"\r\n}",
+        "{\r\n  \"position\": \"[0, -7.082079, 28]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"nuketurbinebb\"\r\n}",
+        "{\r\n  \"position\": \"[0, 7.500356, -74]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"asroc\",\r\n  \"weaponGroups\": [\r\n    1\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -170.0,\r\n  \"maxY\": 170.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[0, 7.500356, -86.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"asroc\",\r\n  \"weaponGroups\": [\r\n    1\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -170.0,\r\n  \"maxY\": 170.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[0, 7.500356, 134.5]\",\r\n  \"rotation\": \"[0, 180, 0]\",\r\n  \"name\": \"asroc\",\r\n  \"weaponGroups\": [\r\n    1\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -170.0,\r\n  \"maxY\": 170.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[0, 7.500356, 125.5]\",\r\n  \"rotation\": \"[0, 180, 0]\",\r\n  \"name\": \"asroc\",\r\n  \"weaponGroups\": [\r\n    1\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -170.0,\r\n  \"maxY\": 170.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[-34, 7.500357, 40.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"ciws20mm\",\r\n  \"weaponGroups\": [\r\n    2\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -180.0,\r\n  \"maxY\": 180.0,\r\n  \"autofireMask\": \"SMALLSHIP, PLANE, MISSILE\"\r\n}",
+        "{\r\n  \"position\": \"[34, 7.500356, 40.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"ciws20mm\",\r\n  \"weaponGroups\": [\r\n    2\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -180.0,\r\n  \"maxY\": 180.0,\r\n  \"autofireMask\": \"SMALLSHIP, PLANE, MISSILE\"\r\n}",
+        "{\r\n  \"position\": \"[-30.5, 7.500356, -32.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"ciws20mm\",\r\n  \"weaponGroups\": [\r\n    2\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -180.0,\r\n  \"maxY\": 180.0,\r\n  \"autofireMask\": \"SMALLSHIP, PLANE, MISSILE\"\r\n}",
+        "{\r\n  \"position\": \"[30.5, 7.500357, -32.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"ciws20mm\",\r\n  \"weaponGroups\": [\r\n    2\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -180.0,\r\n  \"maxY\": 180.0,\r\n  \"autofireMask\": \"SMALLSHIP, PLANE, MISSILE\"\r\n}",
+        "{\r\n  \"position\": \"[-25, 7.500357, 137.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"ciws20mm\",\r\n  \"weaponGroups\": [\r\n    2\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -180.0,\r\n  \"maxY\": 180.0,\r\n  \"autofireMask\": \"SMALLSHIP, PLANE, MISSILE\"\r\n}",
+        "{\r\n  \"position\": \"[25, 7.500356, 137.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"ciws20mm\",\r\n  \"weaponGroups\": [\r\n    2\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -180.0,\r\n  \"maxY\": 180.0,\r\n  \"autofireMask\": \"SMALLSHIP, PLANE, MISSILE\"\r\n}",
+        "{\r\n  \"position\": \"[0, 7.500356, -97]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"ciws20mm\",\r\n  \"weaponGroups\": [\r\n    2\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -180.0,\r\n  \"maxY\": 180.0,\r\n  \"autofireMask\": \"SMALLSHIP, PLANE, MISSILE\"\r\n}",
+        "{\r\n  \"position\": \"[-9, 10.0586, -29.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"lightaalaser\",\r\n  \"weaponGroups\": [\r\n    2\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -180.0,\r\n  \"maxY\": 180.0,\r\n  \"autofireMask\": \"SMALLSHIP, PLANE, MISSILE\"\r\n}",
+        "{\r\n  \"position\": \"[9, 10.0586, -29.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"lightaalaser\",\r\n  \"weaponGroups\": [\r\n    2\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -180.0,\r\n  \"maxY\": 180.0,\r\n  \"autofireMask\": \"SMALLSHIP, PLANE, MISSILE\"\r\n}",
+        "{\r\n  \"position\": \"[-8.5, 10.0586, 29]\",\r\n  \"rotation\": \"[0, 180, 0]\",\r\n  \"name\": \"lightaalaser\",\r\n  \"weaponGroups\": [\r\n    2\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -180.0,\r\n  \"maxY\": 180.0,\r\n  \"autofireMask\": \"SMALLSHIP, PLANE, MISSILE\"\r\n}",
+        "{\r\n  \"position\": \"[8.5, 10.0586, 29]\",\r\n  \"rotation\": \"[0, 180, 0]\",\r\n  \"name\": \"lightaalaser\",\r\n  \"weaponGroups\": [\r\n    2\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -180.0,\r\n  \"maxY\": 180.0,\r\n  \"autofireMask\": \"SMALLSHIP, PLANE, MISSILE\"\r\n}",
+        "{\r\n  \"position\": \"[-9.5, 10.0586, -22.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"ram\",\r\n  \"weaponGroups\": [\r\n    2\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -170.0,\r\n  \"maxY\": 170.0,\r\n  \"autofireMask\": \"PLANE\"\r\n}",
+        "{\r\n  \"position\": \"[9.5, 10.0586, -22.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"ram\",\r\n  \"weaponGroups\": [\r\n    2\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -170.0,\r\n  \"maxY\": 170.0,\r\n  \"autofireMask\": \"PLANE\"\r\n}",
+        "{\r\n  \"position\": \"[-9.5, 10.0586, 12]\",\r\n  \"rotation\": \"[0, 180, 0]\",\r\n  \"name\": \"ram\",\r\n  \"weaponGroups\": [\r\n    2\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -170.0,\r\n  \"maxY\": 170.0,\r\n  \"autofireMask\": \"PLANE\"\r\n}",
+        "{\r\n  \"position\": \"[9.5, 10.0586, 12]\",\r\n  \"rotation\": \"[0, 180, 0]\",\r\n  \"name\": \"ram\",\r\n  \"weaponGroups\": [\r\n    2\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -170.0,\r\n  \"maxY\": 170.0,\r\n  \"autofireMask\": \"PLANE\"\r\n}",
+        "{\r\n  \"position\": \"[-14.5, 7.500356, -126.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"railgun\",\r\n  \"weaponGroups\": [\r\n    0\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -150.0,\r\n  \"maxY\": 150.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[14.5, 7.500357, -126.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"railgun\",\r\n  \"weaponGroups\": [\r\n    0\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -150.0,\r\n  \"maxY\": 150.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[-20, 7.500356, -105.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"railgun\",\r\n  \"weaponGroups\": [\r\n    0\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -150.0,\r\n  \"maxY\": 150.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[20, 7.500357, -105.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"railgun\",\r\n  \"weaponGroups\": [\r\n    0\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -150.0,\r\n  \"maxY\": 150.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[-24.5, 7.500356, -84]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"railgun\",\r\n  \"weaponGroups\": [\r\n    0\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -150.0,\r\n  \"maxY\": 150.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[24.5, 7.500356, -84]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"railgun\",\r\n  \"weaponGroups\": [\r\n    0\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -150.0,\r\n  \"maxY\": 150.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[0, 7.500356, 107]\",\r\n  \"rotation\": \"[0, 180, 0]\",\r\n  \"name\": \"railgun\",\r\n  \"weaponGroups\": [\r\n    0\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -150.0,\r\n  \"maxY\": 150.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[-13, 7.500357, 134.5]\",\r\n  \"rotation\": \"[0, 180, 0]\",\r\n  \"name\": \"railgun\",\r\n  \"weaponGroups\": [\r\n    0\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -150.0,\r\n  \"maxY\": 150.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[13, 7.500356, 134.5]\",\r\n  \"rotation\": \"[0, 180, 0]\",\r\n  \"name\": \"railgun\",\r\n  \"weaponGroups\": [\r\n    0\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -150.0,\r\n  \"maxY\": 150.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[-13.5, 7.500357, -72.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"railgun\",\r\n  \"weaponGroups\": [\r\n    0\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -110.0,\r\n  \"maxY\": 150.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[13.5, 7.500356, -72.5]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"railgun\",\r\n  \"weaponGroups\": [\r\n    0\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -150.0,\r\n  \"maxY\": 110.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[-28, 7.500356, 0]\",\r\n  \"rotation\": \"[0, 180, 0]\",\r\n  \"name\": \"railgun\",\r\n  \"weaponGroups\": [\r\n    0\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -150.0,\r\n  \"maxY\": 150.0,\r\n  \"autofireMask\": \"NONE\"\r\n}",
+        "{\r\n  \"position\": \"[28, 7.500356, 0]\",\r\n  \"rotation\": \"[0, 180, 0]\",\r\n  \"name\": \"railgun\",\r\n  \"weaponGroups\": [\r\n    0\r\n  ],\r\n  \"rippleFire\": false,\r\n  \"focusFire\": false,\r\n  \"minY\": -150.0,\r\n  \"maxY\": 150.0,\r\n  \"autofireMask\": \"NONE\"\r\n}"
+      ],
+      "specials": {
+        "Special 1": "shifter2",
+        "Special 2": "kickflip",
+        "Special 3": "shield1"
+      },
+      "systems": [
+        "{\r\n  \"position\": \"[0, 0, 0]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"autoloader8\"\r\n}",
+        "{\r\n  \"position\": \"[0, 0, 0]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"firecontrol8\"\r\n}",
+        "{\r\n  \"position\": \"[0, 0, 0]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"pdcommand8\"\r\n}",
+        "{\r\n  \"position\": \"[0, 0, 0]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"radar8\"\r\n}",
+        "{\r\n  \"position\": \"[0, 0, 0]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"sonar3\"\r\n}",
+        "{\r\n  \"position\": \"[0, 0, 0]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"throttle3\"\r\n}",
+        "{\r\n  \"position\": \"[0, 0, 0]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"bowjet2\"\r\n}",
+        "{\r\n  \"position\": \"[0, 0, 0]\",\r\n  \"rotation\": \"[0, 0, 0]\",\r\n  \"name\": \"scavenger4\"\r\n}"
+      ],
+      "armor": {
+        "thickness": 0.0,
+        "armorMass": 0
+      },
+      "decals": [],
+      "flagStrands": [
+        {
+          "start": "[-59.25568, 50.05996, -55.62248]",
+          "startBare": 0.0,
+          "end": "[-18.77949, 37.75291, 110.6977]",
+          "endBare": 0.0,
+          "size": 7.8375845,
+          "spacing": 0.9850312,
+          "name": "Lights_6x3_bb_glow"
+        }
+      ],
+      "isValid": true,
+      "thumbnailPath": "C:/Users/Chris/AppData/LocalLow/TMAGames/Waves of Steel/Thumbnails/8ba43b79-5ee6-43e2-9b2d-ac19d96fc29b.png",
+      "lastUsedTime": 1670616160.2698643
+    }
+  },
+  "lastUsedControllerInfo": {
+    "controllerType": 0,
+    "controllerID": 0
+  }
+}
