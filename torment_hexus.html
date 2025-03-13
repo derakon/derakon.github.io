@@ -18,6 +18,11 @@
 .bg1pad {
   height: 532px;
 }
+.bullet {
+ font-family: 'Roboto', sans-serif;
+ font-size: 1.5em;
+ font-style: bold;
+}
 .flex {
   display: flex;
 }
@@ -27,6 +32,18 @@
   color: #ddd;
   font-size: 1.75em;
   text-decoration: none;
+}
+.toc {
+ position: absolute;
+ top: 8em;
+ right: 2em;
+ z-index: 1;
+ background-color: #222a;
+ border-style: solid;
+ border-color: #444;
+ border-width: 4px;
+ border-radius: 2px;
+ padding: 8px;
 }
 h1 {
   font-family: 'Roboto Slab', serif;
@@ -141,6 +158,8 @@ a:visited {
 }
 .press-header {
   margin-left: 2em;
+  font-size: 2em;
+  text-align: center;
 }
 .press-logo {
 }
@@ -387,9 +406,17 @@ a:visited {
       <div style="position: absolute; top: 12em; left: 5em; z-index: 0">
         <img class="th_logo" src="assets/torment_hexus/th_logo_text_hires.png" alt="Torment Hexus game logo, text only version">
       </div>
+      <div class="toc">
+       <h3>Table of contents</h3>
+       <ul>
+        <li class="bullet"><a href="#trailer">Trailer/features</a></li>
+        <li class="bullet"><a href="#about">About the game</a></li>
+        <li class="bullet"><a href="#team">About the team / basic info</a></li>
+        <li class="bullet"><a href="#press">Press</a></li>
+      </div>
     </div>
     <div class="bg fullwidth" style="background-image: url(assets/torment_hexus/backgrounds/BG04.png)">
-      <div class="trailer_and_features">
+      <div class="trailer_and_features" id="trailer">
         <div class="trailer">
           <h2 align="center">Trailer</h2>
           <div class="video-frame">
@@ -428,7 +455,7 @@ a:visited {
     <div class="bg fullwidth"
       style="background-image: url(assets/torment_hexus/backgrounds/BG03.png);
              position: relative;">
-      <h2 align="center">About the Game</h2>
+      <h2 align="center" id="about">About the Game</h2>
       <p class="about_the_game" align="center">
         Torment Hexus is a match-3 tactical combat roguelike. In the cyberpunk
         future, power rests in the hands of the corporate CEOs. They'll take
@@ -462,7 +489,7 @@ a:visited {
     <div class="bg fullwidth" style="background-image: url(assets/torment_hexus/backgrounds/BG01.png">
       <div class="about">
         <div class="about_the_team">
-          <h2>About the Team</h2>
+          <h2 id="team">About the Team</h2>
           <h3>Chris Weisiger (founder, TMA Games)</h3>
           <p>
           Chris (<a href="https://bsky.app/profile/byobattleship.bsky.social">Bluesky</a>)
@@ -519,7 +546,7 @@ or hanging out with her dog, <a href="assets/torment_hexus/ougi.jpg">Ougi</a>.
         </div>
         <div class="basic_info">
          <img class="character" src="assets/torment_hexus/Character02.png" style="width: 256px; position: relative; left: 300px" alt="Picture of Fox, one of the characters in Torment Hexus. She is cheekily offering a syringe of glowing red goop from her courier bag.">
-          <h2 class="basic_header">Basic stats</h2>
+          <h2 class="basic_header">Basic info</h2>
           <ul style="margin-top: -25px">
             <li><b>Launch platform:</b> Windows</li>
             <li><b>Launch window:</b> TBA</li>
@@ -540,7 +567,7 @@ or hanging out with her dog, <a href="assets/torment_hexus/ougi.jpg">Ougi</a>.
       </div>
     </div>
     <div class="bg fullwidth" style="background-image: url(assets/torment_hexus/backgrounds/BG02.png">
-      <h2 align="center">Press</h2>
+      <h2 align="center" id="press">Press</h2>
       <h3 class="press-header">
         <a href="https://drive.google.com/file/d/1MYfMc1sXL-BmQDvYpKvn1Tm9lshDHYm3/view?usp=sharing">Press kit</a> (20MB)
       </h3>
