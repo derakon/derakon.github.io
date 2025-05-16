@@ -1,0 +1,599 @@
+<html>
+  <head>
+    <meta content="width=device-width, initial-scale=1" name="viewport" />
+    <link href="lightbox2/css/lightbox.css" rel="stylesheet" />
+    <title>
+      Waves of Steel, the arcade naval combat game by TMA Games!
+    </title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@700&family=Roboto:wght@300;400&display=swap" rel="stylesheet">
+<style>
+/* Huge thanks to <a href="https://systemlogoff.com/">SysL</a> for helping with this site's CSS! */
+
+.bg {
+  background-size: cover;
+  margin: auto;
+}
+.bg1pad {
+  height: 532px;
+}
+.flex {
+  display: flex;
+}
+.header-link {
+  font-family: 'Roboto', sans-serif;
+  font-style: bold;
+  color: #ddd;
+  font-size: 1.75em;
+  text-decoration: none;
+}
+h1 {
+  font-family: 'Roboto Slab', serif;
+  color: #eee;
+  font-size: 3em;
+  margin-top: .5em;
+  margin-bottom: .5em;
+}
+h3 {
+  font-family: 'Roboto Slab', serif;
+  color: #eee;
+  font-size: 1.5em;
+  margin-top: .1em;
+  margin-bottom: .1em;
+}
+p {
+  color: #ddd;
+  font-family: 'Roboto', sans-serif;
+}
+li {
+  color: #ddd;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.1em;
+  padding-bottom: 0.2em;
+  margin-right: 1em;
+}
+a:link {
+  color: #99d;
+}
+a:visited {
+  color: #d9d;
+}
+.fullwidth {
+  width: 1200px;
+}
+.wos_logo {
+  width: 600px;
+}
+.quote {
+  font-size: 1.25em;
+  color: #ddd;
+}
+.video-frame {
+  width: 600px;
+  height: 330px;
+  margin: auto;
+  margin-left: 1em;
+  background-image: url(assets/waves_of_steel/video_frame.png);
+  background-size: 600px 300px;
+  background-repeat: no-repeat;
+}
+.screenshot {
+  border: 3px solid #222;
+  flex-grow: 1;
+  margin: 1em;
+  object-fit: contain;
+  object-position: center center;
+  width: 350px;
+}
+.trailer_and_features {
+  display: flex;
+  flex-direction: row;
+}
+.trailer {
+  flex-grow: 1.5;
+  z-index: 10;
+}
+.features {
+  flex-grow: 1;
+  z-index: 10;
+}
+.about {
+  display: flex;
+  flex-direction: row;
+}
+.ship2 {
+  position: absolute;
+  left: 400px;
+  width: 800px;
+  top: 222px;
+  z-index: 0;
+}
+.about_the_game {
+  text-align: center;
+  width: 800px;
+  position: relative;
+  margin: auto;
+  z-index: 10;
+}
+.about_the_team {
+  width: 45%;
+  margin-left: 2em;
+}
+.basic_header {
+  margin-top: -100px;
+  margin-left: 1em;
+}
+.basic_info {
+  width: 45%;
+}
+.character {
+}
+.press-header {
+  margin-left: 2em;
+}
+.press-logo {
+}
+.hero {
+  border: 2px solid #ccc;
+  width: 9em;
+  margin-left: .2em;
+  margin-right: .2em;
+}
+.footnote {
+  color: #ddd;
+  text-align: right;
+  margin-top: 1em;
+  margin-right: 2em;
+  width: 100%;
+}
+@media only screen and (max-width: 430px) {
+/* Rules made in here only apply if the screen is mobile */
+  .trailer_and_features {
+    flex-direction: column;
+  }
+  .video-frame {
+    margin-left: auto;
+  }
+  .features {
+    margin: auto;
+    width: 75%;
+  }
+  .about {
+    flex-direction: column;
+  }
+  .about_the_team {
+    margin-left: auto;
+    margin: auto;
+    width: 90%;
+  }
+  .basic_info {
+    margin-left: auto;
+    margin: auto;
+    width: 90%;
+  }
+}
+@media only screen and (max-width: 430px) {
+/* Rules made in here only apply if the screen is mobile */
+ .fullwidth {
+  width: 100vw;
+}
+  body {
+    margin: 0 !important;
+    padding: 0 !important;
+
+  }
+
+
+  .trailer {
+    height: inherit !important;
+  }
+  .hero {
+    width: calc((80vw / 8));
+    display: inline-block;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+  .press-logo {
+    width: 40vw !important;;
+    height: inherit !important;;
+  }
+  .press-header {
+    margin-bottom: 20px;
+  }
+  
+  .video-frame {
+    background: inherit !important;
+    width: 100vw !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  .trailer {
+    width: 100vw !important;
+  }
+  .trailer iframe {
+    width: 100vw !important;
+    position: relative !important;
+    top: 0 !important;
+    left: 0 !important;
+  }
+  .flex {
+    flex-wrap: wrap;
+    justify-content: space-evenly !important;
+  }
+  .flex * {
+    margin: 5px;
+    padding: 0;
+  }
+  .flex span {
+    display: none !important; 
+  }
+  .quote {
+    display: inline-block !important;
+    position: static !important;
+    display: none !important;;
+  
+  }
+  .basic_info {
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+  .basic_info .character {
+    position: relative !important;
+    top: -100px !important;
+    left: 40vw !important;
+  }
+  .basic_info a {
+    margin-left: 0 !important;
+  }
+  
+  .about_the_team .character {
+    width: 50vw !important;
+  }
+  .fullwidth .about_the_game  {
+    width: calc(100vw - 20px) !important;
+    margin: 0 !important;
+    padding: 0 10px;
+  }
+  .fullwidth .ship2  {
+    display: none
+  }
+  .press-header {
+    position: static !important;
+    margin: 0 !important;
+    text-align: center !important;
+    margin-bottom: 0.5em !important;;
+  }
+  /* Cheap Mobile Hack */
+  img[src="assets/waves_of_steel/Ship01.png"] {
+    margin-top: 70px;
+    left: 0 !important;
+    width: 80vw;
+    margin-left: 20vw;
+
+  }
+    .wos_logo {
+      width: 50vw;
+      margin-top: -60px;
+      margin-left: -60px
+  }
+  
+  .bg1pad {
+    height: 150px
+  }
+    .video-frame h3 {
+    position: static !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    text-align: center;
+      margin-top: 1em !important;: 
+  }
+}
+@media only screen and (max-width: 820px) and (min-width: 431px)  {
+  body {
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+  htmld * { border: 1px solid white !important;}
+  
+  .flex {
+    width: 100vw !important;
+        flex-wrap: wrap;
+    justify-content: space-evenly !important;
+  }
+    .trailer_and_features {
+    flex-direction: column;
+  }
+    .about {
+    flex-direction: column;
+  }
+  .about_the_team, .basic_info {
+    width: 100%;
+  }
+  .trailer {
+    width: 100vw !important;
+  }
+  
+  .video-frame {
+    margin: 0 auto;
+  }
+  .fullwidth {
+    width: 100vw !important;
+  }
+  
+  .quote {
+    left: 300px !important;
+    top: 450px !important;
+  }
+
+  img[src="assets/waves_of_steel/Character02.png"] {
+    float: right;
+    left: 0 !important;
+    top: 0 !important;
+  }
+  
+  .bg {
+    width: 100vw;
+    overflow: hidden;
+  }
+  
+    .hero {
+    width: calc((80vw / 8));
+    display: inline-block;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+  .press-header {
+    text-align: center !important;;
+  }
+  h1[class="basic_header"] {
+    margin: 0 !important;
+    margin-bottom: 1em !important;
+  }
+  .wos_logo {
+    width: 40vw;
+  }
+  .bg1pad {
+    height: 380px !important;
+  }
+    img[src="assets/waves_of_steel/Ship01.png"] {
+    margin-top: 20px;
+    left: 0 !important;
+  }
+}
+</style>
+  </head>
+  <body style="background-image: linear-gradient(#4768f4, #102456)">
+    <div class="bg fullwidth" style="background-image: url(assets/waves_of_steel/backgrounds/BG01.png)">
+      <header class="flex" style="height: 150px" align="center">
+        <img style="width:200px; margin:auto;" src="assets/waves_of_steel/tma_logo_white.png" alt="TMA Games company logo">
+      </header>
+      <div class="bg1pad"></div>
+      <div style="position: absolute; top: 45px; z-index: 0">
+        <img class="fullwidth" src="assets/waves_of_steel/Ship01.png" alt="Dramatic painting of a warship being attacked by a flying battleship">
+        <div class="quote" style="text-align: right; position: absolute; top: 580px; left: 780px; width: 400px">
+          "Build ridiculous ships, fight impossible battles, make lots of explosions" &#8212; Rami Ismail
+        </div>
+      </div>
+      <div style="position: absolute; top: 12em; left: 5em; z-index: 0">
+        <img class="wos_logo" src="assets/waves_of_steel/wos_logo.png" alt="Waves of Steel game logo">
+      </div>
+    </div>
+    <div class="bg fullwidth" style="background-image: url(assets/waves_of_steel/backgrounds/BG05.png)">
+      <div class="trailer_and_features">
+        <div class="trailer">
+          <h1 align="center">Trailer</h1>
+          <div class="video-frame">
+            <iframe width="508" height="255" frameborder="0" allow="fullscreen"
+                    style="position: relative; left: 45px; top: 17px"
+            src="https://www.youtube.com/embed/eSmFyqp1les">
+            </iframe>
+            <h3 align="center" style="margin-top:45px"><a href="https://store.steampowered.com/app/1482750/Waves_of_Steel/">Wishlist on Steam!</a></h3>
+          </div>
+        </div>
+        <div class="features">
+          <h1 align="center">Features</h1>
+          <ul>
+            <li><b>Charge</b> into an extensive, story-driven single-player campaign, composed of small, pick-up-and-play missions.</li>
+            <li><b>Take aim</b> against the hordes of enemy ships, aircraft, submarines, and aircraft carriers, as well as bosses like a flying battleship, a colossal ice fortress, a gun made out of a volcano, and more in this alternate-history World War II.</li>
+            <li><b>Fire</b> hundreds of different weapons, including naval artillery, anti-aircraft guns, rockets, torpedoes, missiles, and advanced systems like railguns and lasers.</li>
+            <li><b>Design</b> your own custom warship with a powerful ship designer. Quickly and easily create the ship of your dreams, and the enemy's nightmares!</li>
+            <li><b>Customize</b> your ship with flags, decals, paint jobs, and cosmetic parts.</li>
+          </ul>
+        </div>
+      </div>
+      <div class="flex">
+        <a href="assets/waves_of_steel/screenshots/combat_rocketspam.jpg" data-lightbox="screens">
+          <img class="screenshot" src="assets/waves_of_steel/screenshots/combat_rocketspam.jpg"
+           alt="Screenshot of Waves of Steel, showing the player fighting a group of enemy ships. Artillery shells and rockets are flying everywhere.">
+        </a>
+        <a href="assets/waves_of_steel/screenshots/designer_firing_angles.jpg" data-lightbox="screens">
+          <img class="screenshot" src="assets/waves_of_steel/screenshots/designer_firing_angles.jpg"
+           alt="Screenshot of Waves of Steel, showing the ship designer. A destroyer is being built. The destroyer is decorated with flags, paint, and an angry mouth at the prow.">
+        </a>
+        <a href="assets/waves_of_steel/screenshots/combat_beamspam.jpg" data-lightbox="screens">
+          <img class="screenshot" src="assets/waves_of_steel/screenshots/combat_beamspam.jpg"
+           alt="Screenshot of Waves of Steel, showing enemy aircraft being shot down by lasers, fired by the player's ship.">
+        </a>
+      </div>
+    </div>
+    <div class="bg fullwidth"
+      style="background-image: url(assets/waves_of_steel/backgrounds/BG05.png);
+             position: relative;">
+      <h1 align="center">About the Game</h1>
+      <p class="about_the_game" align="center">
+        Waves of Steel is a build-your-own-warship arcade naval combat game.
+        Tyrants with access to far too many weapons are plunging the entire
+        world into conflict, and it's up to your small crew to fight back.
+        Battle the enemy's fleets, steal their technologies, and build the
+        ultimate warship. You'll need all the power you can get; the other side
+        is working tirelessly to create a weapon so powerful that nothing can
+        resist it.
+        <br><br>
+        The primary inspiration for Waves of Steel was the
+        <i>Naval Ops</i> series, released on the Playstation 2.
+        Waves of Steel has also been compared to Ace Combat, Earth Defense Force, and Kerbal Space Program.
+      </p>
+      <img
+        class="ship2"
+        src="assets/waves_of_steel/Ship02.png"
+        alt="Painting of a warship with far too many guns. It is being shot at by an unknown assailant"
+        >
+      <a href="assets/waves_of_steel/screenshots/combat_paradropship.jpg" data-lightbox="screens">
+        <img class="screenshot" src="assets/waves_of_steel/screenshots/combat_paradropship.jpg"
+             alt="Screenshot of Waves of Steel, showing a group of enemy destroyers paradropping into combat. In the distance, a flight of colossal jets are departing; implicitly, they dropped the ships.">
+      </a>
+      <br>
+      <a href="assets/waves_of_steel/screenshots/dialog_briefing.jpg" data-lightbox="screens">
+        <img class="screenshot" src="assets/waves_of_steel/screenshots/dialog_briefing.jpg"
+             alt="Screenshot of Waves of Steel, showing a briefing before combat. A map of the terrain is visible, with many enemies marked. A character is saying &quot;Worst case, you buy us some time, which we'll use to set up a ground assault.&quot;">
+      </a>
+
+    </div>
+    <div class="bg fullwidth" style="background-image: url(assets/waves_of_steel/backgrounds/BG04.png">
+      <div class="about">
+        <div class="about_the_team">
+          <h1>About the Team</h1>
+          <h3>Chris Weisiger (founder, TMA Games)</h3>
+          <p>
+          Chris (<a href="https://twitter.com/byobattleship">Twitter</a>)
+          is a veteran of the software development industry. He dabbled
+            in game development throughout his life, but only recently took the
+            plunge and started doing it full-time. Past unreleased projects
+            include a bullet-hell dodge-em-up, a procedurally-generated
+            Metroidvania, and contributions to the classic roguelike game
+            "Angband". Waves of Steel is not his first project, but it is by
+            far his largest. It's now been close to three years, the game's
+            still going strong, and Chris has no interest in returning to
+            industry work!
+          </p>
+          <p>Chris lives in the San Francisco Bay Area with his dog, <a href="assets/waves_of_steel/pavlov.jpg">Pavlov</a>.</p>
+          <h3>Nessa Cannon (writing)</h3>
+          <p>
+          <a href="https://www.nessacannon.com/"><b>Nessa Cannon</b></a>
+          (<a href="https://twitter.com/nessathewriter">Twitter</a>)
+is a freelance game writer and narrative designer from Southern California
+known for her work on games like OnlyCans, Forever Ago, and Waves of Steel! She
+also was part of the organizing team on A Compendium of Lesser-Known Cryptids,
+a horror anthology Kickstarter project. In 2020 she participated in two PAX
+panels about how life experience impacts narrative design approach, and the
+narrative design of the movie Midsommar. Before working in games, she was a
+youth chess coach, and her love for chess continues to inform her games work!
+          </p><p>
+When she’s not writing, Nessa is playing Sea of Thieves, watching horror movies,
+or hanging out with her dog, <a href="assets/waves_of_steel/ougi.jpg">Ougi</a>.
+          </p>
+          <h3>Mikel Dale (music)</h3>
+          <p>
+            <a href="https://www.mikeldale.com/"><b>Mikel Dale</b></a>
+            (<a href="https://twitter.com/mikeldalemusic">Twitter</a>) is a
+            British and Spanish-Basque video game composer based in Los
+            Angeles. Credits include 3D brawler Over My
+            Dead Body and upcoming projects such as monster RPG Cryptonom and
+            2D open-world platformer Kandria. Mikel’s style ranges from quirky
+            jazz grooves, epic orchestral boss battles to ambient electronic
+            music, all tailored to the needs of the game. After graduating in
+            composition from the Royal College of Music, Mikel assisted 2-time
+            Grammy-winning composer Christopher Tin (Civilization IV,
+            Splitgate, Old World) before becoming a full-time game composer.
+          </p>
+          <h3>Various artists</h3>
+          <p>
+            Waves of Steel's 2D art owes its existence to the efforts of the following people:
+            <ul>
+              <li><a href="https://twitter.com/hhalogenss">Nathan Gitchell</a></li>
+              <li><a href="https://mobile.twitter.com/GumboatDiplomat">Thomas Mulligan</a></li>
+              <li><a href="https://www.wobblypython.com/">Stephen Bender (WobblyPython)</a></li>
+              <li><a href="https://twitter.com/pepper_a_quinn">Pepper Quinn</a></li>
+            </ul>
+          </p>
+          <img class="character" src="assets/waves_of_steel/Character01.png" style="width: 300px" alt="Portrait of Sidra Karim, one of the characters in Waves of Steel. She is a muscular Indian woman, with a pair of pistols in a harness. She is giving a saucy salute.">
+        </div>
+        <div class="basic_info">
+          <img class="character" src="assets/waves_of_steel/Character02.png" style="width: 200px; position: relative; left: 300px" alt="Heavily stylized full-body portrait of Arbuthnot, one of the characters in Waves of Steel. He is holding a sword high and pointing, while shouting joyfully.">
+          <h1 class="basic_header">Basic stats</h1>
+          <ul style="margin-top: -25px">
+            <li><b>Launch platform:</b> Windows</li>
+            <li><b>Launch window:</b> TBA</li>
+            <li><b>Launch price:</b> USD 19.99, EUR 16.79, GBP 15.49, CDN 22.79</li>
+            <li><b>Languages:</b> English</li>
+            <li><b>Contact:</b> <a href="mailto:contact@tmagames.com">contact@tmagames.com</a></li>
+            <li><b>Social:</b>
+              <a href="https://twitter.com/byobattleship">Twitter</a>,
+              <a href="https://discord.gg/tg6bgvBfSV">Discord</a>,
+              <a href="https://www.twitch.tv/byobattleship">Twitch</a>,
+              <a href="https://store.steampowered.com/app/1482750/Waves_of_Steel/">Steam store page</a>
+            </li>
+          </ul>
+          <a style="clear: both" href="assets/waves_of_steel/screenshots/combat_vs_flybattle.jpg" data-lightbox="screens">
+            <img class="screenshot" src="assets/waves_of_steel/screenshots/combat_vs_flybattle.jpg"
+             alt="Screenshot of Waves of Steel, showing the player fighting the Flying Battleship, an early boss enemy. It is a massive winged battleship, with rocket boosters holding it aloft.">
+          </a>
+          <a style="margin-left: 150px" href="assets/waves_of_steel/screenshots/designer_part_stats.jpg" data-lightbox="screens">
+            <img class="screenshot" src="assets/waves_of_steel/screenshots/designer_part_stats.jpg"
+             alt="Screenshot of Waves of Steel, showing details of a weapon in the ship designer. The weapon is a 5in heavy anti-aircraft gun (flak gun).">
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="bg fullwidth" style="background-image: url(assets/waves_of_steel/backgrounds/BG02.png">
+      <h1 align="center">Press</h1>
+      <h3 class="press-header">
+        <a href="https://drive.google.com/file/d/1MgdIZCqnCHbKb-d88b2X4E0-hHYhi8j1/view?usp=sharing">Press kit</a> (70MB)
+      </h3>
+      <div class="flex" style="margin: auto">
+        <span style="flex-grow: 1"></span>
+        <img class="press-logo" style="height: 300px" src="assets/waves_of_steel/wos_logo.png" alt="Waves of Steel logo">
+        <span style="flex-grow: 1"></span>
+        <img class="press-logo" style="height: 200px; margin-top: 3em" src="assets/waves_of_steel/tma_logo_white.png" alt="TMA Games logo">
+        <span style="flex-grow: 1"></span>
+      </div>
+      <h3 class="press-header">Hero art</h3>
+      <div class="flex" align="center">
+        <span style="flex-grow: 1"></span>
+        <a href="assets/waves_of_steel/hero/sidra.png" data-lightbox="hero">
+          <img class="hero" src="assets/waves_of_steel/hero/sidra_thumb.jpg"
+                            alt="Character art of Sidra Karim">
+        </a>
+        <a href="assets/waves_of_steel/hero/quinn.png" data-lightbox="hero">
+          <img class="hero" src="assets/waves_of_steel/hero/quinn_thumb.jpg"
+                            alt="Character art of Captain Quinn">
+        </a>
+        <a href="assets/waves_of_steel/hero/merriweather.png" data-lightbox="hero">
+          <img class="hero" src="assets/waves_of_steel/hero/merriweather_thumb.jpg"
+                            alt="Character art of Captain Merriweather">
+        </a>
+        <a href="assets/waves_of_steel/hero/nichols.png" data-lightbox="hero">
+          <img class="hero" src="assets/waves_of_steel/hero/nichols_thumb.jpg"
+                            alt="Character art of Lieutenant Nichols">
+        </a>
+        <a href="assets/waves_of_steel/hero/weaver.png" data-lightbox="hero">
+          <img class="hero" src="assets/waves_of_steel/hero/weaver_thumb.jpg"
+                            alt="Character art of Admiral Weaver">
+        </a>
+        <a href="assets/waves_of_steel/hero/patrick.png" data-lightbox="hero">
+          <img class="hero" src="assets/waves_of_steel/hero/patrick_thumb.jpg"
+                            alt="Character art of Agent Holland">
+        </a>
+        <a href="assets/waves_of_steel/hero/arbuthnot.png" data-lightbox="hero">
+          <img class="hero" src="assets/waves_of_steel/hero/arbuthnot_thumb.jpg"
+                            alt="Character art of Arbuthnot">
+        </a>
+        <span style="flex-grow: 1"></span>
+      </div>
+    </div>
+
+    <script src="lightbox2/js/lightbox-plus-jquery.js">
+    </script>
+    <script>
+      lightbox.option({
+        'resizeDuration': 50,
+        'fadeDuration': 200,
+        'imageFadeDuration': 200,
+        'resizeDuration': 200,
+        'wrapAround': true,
+      });
+    </script>
+  </body>
+</html>
